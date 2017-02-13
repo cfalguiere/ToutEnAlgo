@@ -6,7 +6,7 @@ Pour détecter la balise on va utiliser le capteur de lumière.
 Le programme est une boucle qui avance un peu puis vérifie le capteur de lumioère.
 La balise est blanche et lorsqu'on s'approche de la balise, la quantité de lumière réfléchie augmente.  Cette condition va arrêter la boucle.
 
-![Moteur Avancer jusqu'a balise](workshops/images/moteur-avancer-balise.png)
+![Moteur Avancer jusqu'a balise](images/moteur-avancer-balise.png)
 
 Selon les prises sur lesquelles tu as branché les moteurs et les capteurs sur ton robot, les lettres affectées aux moteurs (B+C) et le chiffre affecté au capteur (3) peuvent être un peu différents.
 
