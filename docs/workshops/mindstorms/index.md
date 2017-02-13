@@ -27,3 +27,23 @@ La condition d'arrêt de la boucle utilise le temps et la valeur sera 20 pour co
 ![Compter jusqu'a 20](images/compter-20-secondes.png)
 
 Il faut paramétrer le bloc affichage pour qu'il affiche du texte. Il faut aussi changer la source dans la barre verte. La valise représente une variable. Ici la variable est le nombre de passages dans la boucle. Tu peut changer la position (x et y), la couleur et la taille du texte.
+
+
+*_Variante_* : comment peut tu compteur jusqu'à 30 ?
+
+
+## Afficher la valeur d'un capteur
+
+Pour afficher la valeur d'un capteur on va relier le capteur à l'affichage.
+
+Le programme est une boucle. A chaque passage, le capteur est lu puis envoyé dans l'affichage. La valeur du capteur est amenée dans l'affichage par le lien en jaune.
+
+La condition d'arrêt de la boucle utilise le temps et la valeur sera 60 ou une autre valeur.
+
+![Afficher une variable](images/capteur-afficher.png)
+
+Il faut paramétrer le bloc affichage pour qu'il affiche du texte. Il faut aussi changer la source dans la barre verte. La valise représente une variable. Ici la variable est la valeur lue par le capteur. Tu peut changer la position (x et y), la couleur et la taille du texte.
+
+
+*_Variante_* : essaye avec différents capteurs
+
