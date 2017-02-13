@@ -3,8 +3,8 @@
 ## Avancer jusqu'à la balise
 
 Pour détecter la balise on va utiliser le capteur de lumière.
-Le programme est une boucle qui avance un peu puis vérifie le capteur de lumioère.
-La balise est blanche et lorsqu'on s'approche de la balise, la quantité de lumière réfléchie augmente.  Cette condition va arrêter la boucle.
+Le programme est une boucle qui avance un peu puis vérifie le capteur de lumière.
+La balise est blanche et lorsqu'on s'approche de la balise, la quantité de lumière réfléchie augmente et fini par dépasser 20.  Cette condition va arrêter la boucle.
 
 ![Moteur Avancer jusqu'a balise](images/moteur-avancer-balise.png)
 
