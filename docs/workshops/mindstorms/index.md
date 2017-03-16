@@ -36,7 +36,7 @@ Il faut paramétrer le bloc affichage pour qu'il affiche du texte. Il faut aussi
 
 Pour afficher la valeur du capteur de lumière, on va relier l'écran du robot.
 
-Le programme est une boucle. A chaque passage, le capteur est lu puis envoyé dans l'affichage. La valeur du capteur est amenée dans l'affichage par le lien en jaune.
+Le programme est une boucle. A chaque passage, le capteur est lu et sa valeur est affichéee. La valeur du capteur est amenée dans l'affichage par le lien en jaune.
 
 La condition d'arrêt de la boucle utilise la durée et la valeur est 60 pour 60 secondes.
 
