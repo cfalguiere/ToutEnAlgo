@@ -6,9 +6,13 @@
 [Avancer jusqu'à la balise](avancer_jusqua_balise.md)
 
 
-## Les Capteurs
+## Répéter une opération
 
-[Compter 20 secondes](compteur_20_secondes.md)
+[Compter 20 secondes](compter_20_secondes.md)
+
+
+## Les capteurs
+
 
 [Afficher la valeur d'un capteur](afficher_valeur_capteur.md)
 
