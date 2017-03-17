@@ -3,11 +3,12 @@
 ## Changer de direction
 
 
-Dans une voiture on utilise le volant pour changer de direction. Le volant modifie l'angle des roues. Toutes les roues sont commandées par le même moteur mais la modification de l'angle des roues permet d'aller dans la direction souhaitée. En complément un mécanisme modifie la vitesse de chaque roue pour que le mouvement soit fluide.
+Dans une voiture, on utilise le volant pour changer de direction. Le volant modifie l'angle des roues. Toutes les roues sont commandées par le même moteur mais la modification de l'angle des roues permet d'aller dans la direction souhaitée. En complément un mécanisme modifie la vitesse de chaque roue pour que le mouvement soit fluide.
 
 Sur un robot rover ce mécanisme serait très compliqué à monter. On utilise en général un système plus simple. Chaque côté à un moteur et on joue sur la vitesse des moteurs pour changer la direction.
 
 Si tu n'as pas encore utilisé de moteurs, il est préférable de commencer par l'épisode qui présente les moteurs. Il présentera les modes d'utilisation et les options des blocs moteur.
+
 [Utiliser les moteurs](../bases/moteurs/les_moteurs.md)
 
 Si tout est clair nous allons voir comment utiliser deux moteurs pour faire tourner le véhicule.
@@ -18,6 +19,9 @@ Si les moteurs de chaque côté vont à la même vitesse, ils parcourent le mêm
 Si le moteur à droite va plus lentement, on aura fait moins de chemin à droite qu'à gauche et de fait on aura tourné à droite.
 
 Pour faciliter ces commandes, deux blocs de la zone action en vert permettent de contrôler deux moteurs en même temps.
+
+![Blocs moteur Tank et Volant](images/actions_motors_tank_volant.jpg)
+
 
 ### Le bloc Moteur en mode Tank
 
@@ -33,13 +37,13 @@ Si on veut aller à droite le moteur droit tourme plus lentement.
 ![Tourner à droite en mode Tank](images/bloc_tank_tourne_droite.png)
 
 A ton avis comment fait-on pour aller à gauche ?
-Et et bien si i on veut aller à gauche .... le moteur gauche doit tourner plus lentement.
+Et et bien si on veut aller à gauche ... le moteur gauche doit tourner plus lentement.
 
 ### Aller dans la bonne direction
 
 Le bloc indique en haut à droite les lettres des deux moteurs contrôlés. Il faut faire attention à connecter les moteurs sur les bonnes lettres, mais aussi dans le bon ordre. ici B+C n'a pas le même sens que C+B.
 
-A ton avis que signifie l'ordre des lettres ?
+Que signifie l'ordre des lettres ?
 
 La première lettre indique le moteur à gauche et la seconde le moteur à droite.
 
