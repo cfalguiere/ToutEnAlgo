@@ -1,6 +1,8 @@
 # Mindstorms
 
-## Les moteurs
+## Faire un véhicule
+
+[Utiliser les moteurs](bases/moteurs/les_moteurs.md)
 
 
 [Avancer jusqu'à la balise](avancer_jusqua_balise.md)
@@ -12,7 +14,6 @@
 
 
 ## Les capteurs
-
 
 [Afficher la valeur d'un capteur](afficher_valeur_capteur.md)
 
