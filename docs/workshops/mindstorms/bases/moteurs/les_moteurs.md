@@ -58,8 +58,8 @@ Le bloc moteur a 5 modes :
 - degrés : le moteur tournera d'une portion d'un tour indiquée en degrés, par exemple 1/2 tour pour 180° ou 1/4 de tour pour 90°. Il est par défaut à 360°; Ce mode est utilisé pour des déplacements précis comme le mécanisme des pinces ou une tourelle d'observation.
 
 Deux autres paramètres sont présents selon les blocs :
-- la vitesse ![icône vitesse](images/bloc_motor_option_vitesse.png)
-- le freinage ![icône freinage](images/bloc_motor_option_brake.png)
+- ![icône vitesse](images/bloc_motor_option_vitesse.png) la vitesse
+- ![icône freinage](images/bloc_motor_option_brake.png) le freinage
 
 La vitesse peut être un nombre positif ou négatif. Les valeurs négatives sont utilisées pour tourner dans l'autre sens. Cela permet d'ouvrir et fermer une pince en alternant les valeurs, ou bien de faire reculer un véhicule.
 
