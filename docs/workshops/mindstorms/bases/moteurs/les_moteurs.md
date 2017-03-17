@@ -1,6 +1,6 @@
 # Mindstorms
 
-## Utilier les moteurs
+## Utiliser les moteurs
 
 Le Mindstorms a deux types de moteurs :
 - un petit moteur à axe central
@@ -18,15 +18,18 @@ Le gros moteur à axe horizontal est utilisé le plus souvent pour faire tourner
 Les moteurs sont commandés par la brique de contrôle, le cerveau du robot. Pour cela, il faut les brancher avec un des câbles plats sur un des côtés de la brique.
 Si tu regardes la brique des deux côtés, tu verras qu'elle a des lettres A, B, C, D d'un côté, et des chiffres 1, 2, 3, 4 de l'autre.
 
-TODO image
+![Ports moteurs](images/ports_A_B_C_D.jpg)
+![Ports capteurs](images/ports_1_2_3_4.jpg)
+
 
 Les moteurs se branchent sur les lettres. Les chiffres eux servent pour les capteurs qu'on verra plus tard.
 
 Par exemple, on va brancher le petit moteur sur la lettre A.
 
-TODO image
+![Ports capteurs](images/branchement.jpg)
 
-Pour indiquer au robot ce que les moteurs doivent faire, on va écrire un programme.
+
+Et maintenant pour indiquer au robot ce que les moteurs doivent faire, on va écrire un programme.
 
 Un programme est composé de plusieurs blocs :
 - Un bloc flèche verte pour indiquer où le programme démarre. Il se trouve dans la section flux en orange
@@ -45,6 +48,8 @@ Voici à quoi ressemble un programme très simple qui fait tourner l'hélice un 
 
 ![Programme rotation](images/program_small_motor_rotation.png)
 
+
+L'action moteur est le troisième bloc, en vert.
 
 Première chose importante, la lettre en haut à droite. Elle doit correspondre à la lettre sur laquelle le moteur est branché. On peut changer la lettre en cliquant dessus et en choisissant une autre valeur.
 
