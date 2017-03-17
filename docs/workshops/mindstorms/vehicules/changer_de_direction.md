@@ -32,7 +32,7 @@ Si on veut aller tout droit les deux moteurs ont la même vitesse.
 ![Aller toiut droit en mode Tank](images/bloc_tank_tout_droit.png)
 
 
-Si on veut aller à droite le moteur droit tourme plus lentement.
+Si on veut aller à droite le moteur droit doit tourner plus lentement.
 
 ![Tourner à droite en mode Tank](images/bloc_tank_tourne_droite.png)
 
