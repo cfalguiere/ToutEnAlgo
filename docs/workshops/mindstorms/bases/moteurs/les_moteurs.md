@@ -32,7 +32,7 @@ Dans notre programme on va utiliser un des blocs moteur.
 
 Il y a quatre blocs moteur dans la section verte. Les deux premiers contrôlent le petit et le gros moteur. Les deux suivants permettent de commander 2 moteurs en même temps. Cela nous permettra, par exemple, de contrôler la direction d'un véhicule.
 
-![Blocs action moteur](images/action_motors.png)
+![Blocs action moteur](images/actions_motors.png)
 
 Mais pour le moment, regardons ce qu'il y a dans ce bloc moteur.
 
