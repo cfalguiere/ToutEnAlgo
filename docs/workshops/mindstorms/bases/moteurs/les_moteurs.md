@@ -15,6 +15,8 @@ Le petit moteur à axe central permet de faire tourner des hélices ou de d'ouvr
 
 Le gros moteur à axe horizontal est utilisé le plus souvent pour faire tourner les roues des véhicules. Le moteur fait tourner un axe horizontal sur lequel se trouvent les roues. Bien sûr si on le met sur le côté, on peut faire tourner un axe vertical.
 
+### Brancher le moteur
+
 Les moteurs sont commandés par la brique de contrôle, le cerveau du robot. Pour cela, il faut les brancher avec un des câbles plats sur un des côtés de la brique.
 Si tu regardes la brique des deux côtés, tu verras qu'elle a des lettres A, B, C, D d'un côté, et des chiffres 1, 2, 3, 4 de l'autre.
 
@@ -30,6 +32,8 @@ Par exemple, on va brancher le petit moteur sur la lettre A.
 
 
 Et maintenant pour indiquer au robot ce que les moteurs doivent faire, on va écrire un programme.
+
+### Programmer le moteur
 
 Un programme est composé de plusieurs blocs :
 - Un bloc flèche verte pour indiquer où le programme démarre. Il se trouve dans la section flux en orange
@@ -75,6 +79,8 @@ La vitesse peut être un nombre positif ou négatif. Les valeurs négatives sont
 
 Le freinage indique si le moteur doit ralentir avant de s'arrêter ou pas. En général, on ne freine pas lorsque l'on enchaîne avec un autre mouvement.
 
+### Exemples de programmes
+
 On peut mettre plusieurs blocs moteurs à la suite pour faire une action complexe.
 
 Voici un programme qui commande la pince du scorpion.
@@ -90,7 +96,7 @@ Et un programme qui déplace un robot le long d'un parcours en s'arrêtant aux a
 ![programme bus stop](images/program_motor_busstop.png)
 
 
-## Points à retenir
+### Points à retenir
 
 - Le moteur doit être branché;
 - La lettre du bloc doit correspondre à la lettre où le moteur est branché;
