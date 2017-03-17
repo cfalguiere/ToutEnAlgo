@@ -1,12 +1,17 @@
+# Mindstorms
+
+## Utilier les moteurs
+
 Le Mindstorms a deux types de moteurs :
 - un petit moteur à axe central
 - deux gros moteurs à axe horizontal
 
 ![Petit moteur](images/small_motor.png)
+![Gros moteur](images/large_motor.png)
+
 
 Le petit moteur à axe central permet de faire tourner des hélices ou de d'ouvrir et fermer des pinces.
 
-![Gros moteur](images/large_motor.png)
 
 Le gros moteur à axe horizontal est utilisé le plus souvent pour faire tourner les roues des véhicules. Le moteur fait tourner un axe horizontal sur lequel se trouvent les roues. Bien sûr si on le met sur le côté, on peut faire tourner un axe vertical.
 
