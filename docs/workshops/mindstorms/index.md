@@ -4,7 +4,7 @@
 
 [Utiliser les moteurs](bases/moteurs/les_moteurs.md)
 
-[Changer de direction](vehicule/changer_de_direction.md)
+[Changer de direction](vehicules/changer_de_direction.md)
 
 
 [Avancer jusqu'à la balise](avancer_jusqua_balise.md)
