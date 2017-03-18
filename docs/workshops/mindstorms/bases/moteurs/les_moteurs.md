@@ -79,18 +79,24 @@ La vitesse peut être un nombre positif ou négatif. Les valeurs négatives sont
 
 Le freinage indique si le moteur doit ralentir avant de s'arrêter ou pas. En général, on ne freine pas lorsque l'on enchaîne avec un autre mouvement.
 
+
+
 ### Exemples de programmes
 
 On peut mettre plusieurs blocs moteurs à la suite pour faire une action complexe.
 
+
 Voici un programme qui commande la pince du scorpion.
 
 ![programme de pince](images/program_motor_pincer.png)
+
+Clique sur l'image pour voir la video
+
 [![Démo pince](images/mindstorms_motor_pincer.png)](https://raw.githubusercontent.com/cfalguiere/ToutEnAlgo/refonte-home/docs/workshops/mindstorms/bases/moteurs/images/mindstorms_motor_pincer.mp4)
 
 
 
-Et un programme qui déplace un robot le long d'un parcours en s'arrêtant aux arrêts de bus.
+Et un autre programme pour un bus par exemple qui se déplace sur un parcours et  s'arrête aux arrêts de bus.
 
 
 ![programme bus stop](images/program_motor_busstop.png)
