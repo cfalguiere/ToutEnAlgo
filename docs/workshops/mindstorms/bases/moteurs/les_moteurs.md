@@ -86,7 +86,7 @@ On peut mettre plusieurs blocs moteurs à la suite pour faire une action complex
 Voici un programme qui commande la pince du scorpion.
 
 ![programme de pince](images/program_motor_pincer.png)
-![vidéo programme de pince](images/mindstorms_motor_pincer.mp4)
+[![Démo pince](images/mindstorms_motor_pincer.png)](https://raw.githubusercontent.com/cfalguiere/ToutEnAlgo/refonte-home/docs/workshops/mindstorms/bases/moteurs/images/mindstorms_motor_pincer.mp4)
 
 
 
