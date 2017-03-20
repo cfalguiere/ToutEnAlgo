@@ -8,8 +8,6 @@ L'atelier a pris environ 3h (incluand le goûter).
 [![demo smiley](images/cover-video-demo.png)](https://youtu.be/tMF2DQbEH64)
 
 
-`<iframe width="560" height="315" src="https://www.youtube.com/embed/tMF2DQbEH64?rel=0" frameborder="0" allowfullscreen></iframe>`
-
 
 ## Le matériel
 
@@ -30,7 +28,7 @@ Nous avons utilisé le montage du robot Educator du kit Mindstorms Education ada
 
 Le plan de montage du rover :
 
-[![demo smiley](images/montage-rover.png)](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
+[![plan de montage rover](images/montage-rover.png)](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
 
 
 
