@@ -8,10 +8,10 @@ L'atelier a pris environ 3h (incluand le goûter).
 [![demo smiley](images/cover-video-demo.png)](https://youtu.be/tMF2DQbEH64)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tMF2DQbEH64?rel=0" frameborder="0" allowfullscreen></iframe>
+`<iframe width="560" height="315" src="https://www.youtube.com/embed/tMF2DQbEH64?rel=0" frameborder="0" allowfullscreen></iframe>`
 
 
-### Le matériel
+## Le matériel
 
 Pour ce montage il faut
 
@@ -24,10 +24,7 @@ Pour ce montage il faut
 
 Le montage fini ressemble à ça
 
-![montage](images/montage.jpg)
-
-
-Nous avons utilisé le montage du robot Educator du kit Mindstorms Education adapté pour le kit Mindstorms Home Edition. Il faut une roue folle à l'arrière. Elle peut être achetée facilement. Une autre option est la remplacer par un axe vertical et une petite roue verticale qui peut se tourner librement autour de l'axe vertical pour se mettre dans le sens de déplacement.
+![montage](images/montage.jpg) | Nous avons utilisé le montage du robot Educator du kit Mindstorms Education adapté pour le kit Mindstorms Home Edition. Il faut une roue folle à l'arrière. Elle peut être achetée facilement. Une autre option est la remplacer par un axe vertical et une petite roue verticale qui peut se tourner librement autour de l'axe vertical pour se mettre dans le sens de déplacement.
 
 Le plan de montage du rover
 
@@ -35,7 +32,7 @@ Le plan de montage du rover
 
 
 
-### Les étapes
+## Les étapes
 
 La conception du smiley nécessite plusieurs étapes
 
@@ -59,7 +56,7 @@ Par chance le stylo avait la bonne taille pour tenir coincée dans la pièce att
 
 
 
-### faire un cercle
+## faire un cercle
 
 Le premier programme a permis de valider que l'on peut faire un cercle en faisant tourner le robot.
 
@@ -80,7 +77,7 @@ On a baissé la vitesse du robot pour mieux contrôler les mouvements, mais il f
 
 On a gardé ce programme pour pouvoir faire les démos en attendant que le programme complet soit terminé.
 
-### faire les yeux et la bouche
+## faire les yeux et la bouche
 
 Un deuxième programme a permis de tester le lever de stylo.
 
@@ -95,9 +92,10 @@ Ici aussi on a utilisé une vitesse assez basse pour éviter d'éjecter le stylo
 
 Un petit inconvénient de cette solution est que le stylo écrit pendant qu'il se lève et quand on le repose. Celà ne permet pas de faire un dessin précis, mais ça donné un air cool et un peu lunatique au smiley.
 
-### dessiner les yeux et la bouche
+## dessiner les yeux et la bouche
 
-Un troisième programme reprend le tout
+Un troisième programme reprend le tout.
+
 Les yeux et la bouche sont des traits droits. On va utiliser des blocs Volant dans ce cas car on n'a pas à gérer la direction.
 
 Pour se positionner pour le premier oeil le robot recule en tournant un peu. On a choisi un bloc Tank et changé les vitesses pour avoir le bon virage.
@@ -109,7 +107,7 @@ Il faut ensuite se positionner un peu plus bas pour faire la bouche. le robot fa
 ![programme complet](images/programme.png)
 
 
-### les améliorations possibles
+## les améliorations possibles
 
 L'atelier se terminait et on a dû finir là pour partir faire la démo.
 
