@@ -26,7 +26,7 @@ Pour ce montage il faut
 
 Le montage fini ressemble à ça
 
-[montage](montage.jpg)
+![montage](images/montage.jpg)
 
 
 Nous avons utilisé le montage du robot Educator du kit Mindstorms Education adapté pour le kit Mindstorms Home Edition. Il faut une roue folle à l'arrière. Elle peut être achetée facilement. Une autre option est la remplacer par un axe vertical et une petite roue verticale qui peut se tourner librement autour de l'axe vertical pour se mettre dans le sens de déplacement.
@@ -77,7 +77,7 @@ Il faut quelques essais pour déterminer le nombre de rotations nécessaires pou
 
 On a baissé la vitesse du robot pour mieux contrôler les mouvements, mais il fait éviter les vitesses trop basses. Le stylo frotte un peu et si la vitesse est trop basse le robot n'avance plus droit.
 
-![programme du cercle](cercle.png)
+![programme du cercle](images/cercle.png)
 
 On a gardé ce programme pour pouvoir faire les démos en attendant que le programme complet soit terminé.
 
@@ -92,7 +92,7 @@ Pour le reposer, il faut le déplacer exactement en sens inverse.
 
 Ici aussi on a utilisé une vitesse assez basse pour éviter d'éjecter le stylo.
 
-![programme du crayon](crayon.png)
+![programme du crayon](images/crayon.png)
 
 Un petit inconvénient de cette solution est que le stylo écrit pendant qu'il se lève et quand on le repose. Celà ne permet pas de faire un dessin précis, mais ça donné un air cool et un peu lunatique au smiley.
 
@@ -107,7 +107,7 @@ Ensuite le robot pose le stylo, avance en ligne droite pour faire le premier oei
 
 Il faut ensuite se positionner un peu plus bas pour faire la bouche. le robot fait une sorte de S, en reculant en tournant d'abord dans un sens puis dans l'autre. Il se retrouve alors plus ou moins parallèle à la ligne des yeux. Il pose le stylo, avance en ligne droite et relève le stylo.
 
-![programme complet](programme.png)
+![programme complet](images/programme.png)
 
 
 #### les améliorations possibles
