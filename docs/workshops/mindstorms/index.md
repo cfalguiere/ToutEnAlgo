@@ -20,3 +20,7 @@
 [Afficher la valeur d'un capteur](afficher_valeur_capteur.md)
 
 
+## Le robot qui dessine
+
+[Smiley](robot-qui-dessine/smiley.md)
+
