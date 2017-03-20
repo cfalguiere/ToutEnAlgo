@@ -24,9 +24,11 @@ Pour ce montage il faut
 
 Le montage fini ressemble à ça
 
-![montage](images/montage.jpg) | Nous avons utilisé le montage du robot Educator du kit Mindstorms Education adapté pour le kit Mindstorms Home Edition. Il faut une roue folle à l'arrière. Elle peut être achetée facilement. Une autre option est la remplacer par un axe vertical et une petite roue verticale qui peut se tourner librement autour de l'axe vertical pour se mettre dans le sens de déplacement.
+![montage](images/montage.jpg)
 
-Le plan de montage du rover
+Nous avons utilisé le montage du robot Educator du kit Mindstorms Education adapté pour le kit Mindstorms Home Edition. Il faut une roue folle à l'arrière. Elle peut être achetée facilement. Une autre option est la remplacer par un axe vertical et une petite roue verticale qui peut se tourner librement autour de l'axe vertical pour se mettre dans le sens de déplacement.
+
+Le plan de montage du rover :
 
 [![demo smiley](images/montage-rover.png)](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
 
