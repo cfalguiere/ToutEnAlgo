@@ -27,4 +27,12 @@
 
 ## Conception et documentation des modèles
 
-[LDD](cao/cao.md)
+Une fois que vous avez un beau modèle, il est intéressant de le partager avec d'autres.
+
+Vous pouvez partager
+
+- la conception du robot ou d'un mécanisme
+- le code du robot
+
+[Documentation des projets](concepteur/doc-projet.md)
+[Documentation des mobntages](concepteur/ldd.md)
