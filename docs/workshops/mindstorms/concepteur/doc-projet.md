@@ -26,7 +26,7 @@ Il est aussi possible de réorganiser les blocs de manière plus lisible en isol
 
 ![Code avec Pattes](images/Code-Pattes.png)
 
-### Content Editor 
+### Le Content Editor 
 
 Enfin le modèle complet peut être documenté dans le Content Editor.
 
