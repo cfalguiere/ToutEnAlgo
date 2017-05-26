@@ -69,7 +69,7 @@ Si tu n'as jamais utiisé les moteurs tu peux regarder les pages suivantes :
 Ce programme utilise un bloc Tank avec seulement une roue qui tourne. Le centre du cercle va être à peu près là où se trouve la roue qui ne tourne pas.
 Le diamètre du cercle est fixé par l'écart entre la roue intérieure et le stylo.
 
-Il faut quelques essais pour déterminer le nombre de rotations nécessaires pour faire un cercle complet. Si besoin, on peut faire des portions de rotations. Attention, le signe décimal est le signe . (point).
+Il faut quelques essais pour déterminer le nombre de rotations nécessaires pour faire un cercle complet. Si besoin, on peut faire des portions de rotations (par exemple 5.9 pour 5 tours et 9/10 ièmes de tours). Attention, le signe décimal est le signe . (point) et non la virgule comme en français.
 
 On a baissé la vitesse du robot pour mieux contrôler les mouvements, mais il fait éviter les vitesses trop basses. Le stylo frotte un peu et si la vitesse est trop basse le robot n'avance plus droit.
 
