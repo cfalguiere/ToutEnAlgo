@@ -31,6 +31,7 @@ Le bouton avec le plus en bas à droite permet de créer un nouveau modèle.
 
 ![Exemple CAO](images/LDD-Build.png)
 
+Ce modèle peut être diffusé en HTML ou en PDF et inclus dans le Content Editor du projet dans MindstormsApp.
 
 ### Documentations de LDD
 
@@ -40,4 +41,3 @@ Un mode d'emploi de LDD (en anglais)
 
 Le mode View ajoute des fonds assez criards. Pour générer une vue sans fond, aller dans le mode Build ou Building Guide et utiliser Take a Screenshot dans les menus. Le fond est transparent.
 
-Ce modèle peut être diffusé en HTML ou en PDF et inclus dans le Content Editor du projet.
