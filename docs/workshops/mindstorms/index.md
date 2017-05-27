@@ -1,5 +1,7 @@
 # Mindstorms
 
+----
+
 ## Faire un véhicule
 
 [Utiliser les moteurs](bases/moteurs/les_moteurs.md)
@@ -25,6 +27,8 @@
 [Smiley](robot-qui-dessine/smiley.md)
 
 
+----
+
 ## Conception et documentation des modèles
 
 Une fois que vous avez un beau modèle, il est intéressant de le partager avec d'autres.
@@ -37,3 +41,7 @@ Vous pouvez partager
 [Documentation des projets](concepteur/doc-projet.md)
 
 [Documentation des mobntages](concepteur/ldd.md)
+
+----
+
+[Retour](../index.md)

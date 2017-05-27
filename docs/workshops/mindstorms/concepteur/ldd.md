@@ -1,7 +1,7 @@
 # Mindstorms
 
-## La conception du robot
-
+## Documenter le montage du robot
+ 
 Lego fourni un outil qui permet de concevoir les montages virtuellement. 
 
 C'est un outil qui ressemble aux outils de CAO (Conception Assistée par Ordinateur) des professionnels, mais en plus simple.
@@ -9,7 +9,7 @@ C'est un outil qui ressemble aux outils de CAO (Conception Assistée par Ordinat
 Cet outil permet aussi de générer les instructions de montage que vous avez utilisé comme modèle pour des montages.
 
 
-
+<div><br></div>
 ### Installer Lego Digital Designer
 
 Première étape, installer LDD (Lego Digital Designer).
@@ -27,12 +27,14 @@ Le bouton avec le plus en bas à droite permet de créer un nouveau modèle.
 ![Editeur CAO](images/LDD-Editeur-CAO.png)
 
 
+<div><br></div>
 ### Un exemple de modèle 
 
 ![Exemple CAO](images/LDD-Build.png)
 
 Ce modèle peut être diffusé en HTML ou en PDF et inclus dans le Content Editor du projet dans MindstormsApp.
 
+<div><br></div>
 ### Documentations de LDD
 
 Un mode d'emploi de LDD (en anglais) 
@@ -41,3 +43,5 @@ Un mode d'emploi de LDD (en anglais)
 
 Le mode View ajoute des fonds assez criards. Pour générer une vue sans fond, aller dans le mode Build ou Building Guide et utiliser Take a Screenshot dans les menus. Le fond est transparent.
 
+<div><br></div>
+[Retour](index.md)
