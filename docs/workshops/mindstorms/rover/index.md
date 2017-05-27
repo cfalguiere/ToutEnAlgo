@@ -23,7 +23,7 @@ Suivez les instructions jusqu'à l'étape 23
 
 [![plan de montage rover](images/montage-rover.png)](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
 
-[         Plan de montage](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
+[Plan de montage](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
 
 ----
 
@@ -51,7 +51,7 @@ On va utiliser un autre système d'attache, par exemple un montage de ce type. I
 
 [![plan de roue folle](images/rover-roue-folle.png)](html/rover-roue-folle.html)
 
-[        Plan de montage](html/rover-roue-folle.html)
+[Plan de montage](html/rover-roue-folle.html)
 
 
 Si vous n'avez pas de roue folle, vous pouvez utiliser un montage de ce type. Il faut s'assurer qu'il tourne bien sur tous les axes.
@@ -75,11 +75,8 @@ Cette pièce sert à compenser une rangée et attacher la brique de contrôle au
 Vous pouvez utiliser un montage de ce type.
 
 ![plan de l'attache de la brique](images/pose-brique.png) 
-<div>
-<frameset cols="100%">
-<frame src="html/Building Instructions [rover-pose-brique].html" />
-</frameset>
-</div>
+
+[Plan de montage](html/Building Instructions [rover-pose-brique].html)
 
 La barre  à l'arrière n'est pas indispensable. Elle permet de tenir les cables.
 
@@ -87,7 +84,7 @@ La barre  à l'arrière n'est pas indispensable. Elle permet de tenir les cables
 
 ### La suite du montage du rover Education
 
-Reprennez les instructions à l'étape 40 
+Reprenez les instructions à l'étape 40 
 
 [![plan de montage rover](images/montage-rover.png)](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
 
