@@ -1,4 +1,9 @@
 # ToutEnAlgo
 
+Ce projet regroupe des ressources pour l'animation d'ateliers pour enfants ou personnes novices en informatique dans le but de leur faire découvrir l'informatique et la programmation par des moyens amusants.
 
-[Site Web](https://cfalguiere.github.io/ToutEnAlgo/)
+Il contient à ce jour surtout des ressources sur les ateliers Mindstorms.
+
+Vous êtes sur le repository Github du site.
+
+[Aller sur le site](https://cfalguiere.github.io/ToutEnAlgo/)
