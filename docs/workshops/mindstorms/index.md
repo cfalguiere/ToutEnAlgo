@@ -38,9 +38,7 @@ Vous pouvez partager
 - la conception du robot ou d'un mécanisme
 - le code du robot
 
-[Documentation des projets](concepteur/doc-projet.md)
-
-[Documentation des mobntages](concepteur/ldd.md)
+[Conception et documentation](concepteur/index.md)
 
 ----
 
