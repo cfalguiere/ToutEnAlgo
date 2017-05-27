@@ -42,7 +42,7 @@ La roue folle n'est pas fournie dans le kit commercial. Elles s'achètent par 2 
 </p>
 </div>
 
-<div style="clear:left;><br></div>
+<div style="clear:left;"><br></div>
 
 <div style="float:right;margin-left:5px"><img src="images/piece-manquante-1.png"></div>
 <div>
