@@ -17,6 +17,8 @@ Parmi les indications qu'il faut souvent donner
 - dans quelle position doit se trouver le robot au démarrage
 - comment adapter les seuils des capteurs en fonction de la lumière ambiante 
 
+<div><br></div>
+
 Cette partie s'adresse aux concepteurs qui veulent aller plus loin dans la diffusion de leurs modèles.
 
 [Partager le programme du robot](project-package.md)
