@@ -4,9 +4,9 @@
 
 ## Le rover de base
 
-Le modèle le plus simple pour commencer un projet est le rover. 
+Le modèle le plus simple pour commencer un projet est le rover. Il est simple et rapide à monter conçu pour intégrer facilement les divers capteurs.
 
-[![Rover](images/rover.png)](rover/index.md) 
+[![Rover](rover/images/rover.png)](rover/index.md) 
 
 ----
 

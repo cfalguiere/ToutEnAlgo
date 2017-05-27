@@ -4,7 +4,10 @@
 
 ## Le rover 
 
-Le kit Education fournit un montage de rover simple et rapide à monter. Le plan de montage contient aussi les instructions pour intégrer les divers capteurs.
+Le kit Education fournit un montage de rover simple et rapide à monter conçu pour intégrer facilement les divers capteurs.
+
+![Rover](rover/images/rover.png)
+
 
 Il est en gros utilisable avec le kit commercial. Toutefois il manque quelques pièces. 
 
@@ -15,6 +18,7 @@ Les étapes modifiées sont :
 - l'attache de la roue folle de l'étape 24 à l'étape 34
 - la pose de la brique de contrôle de l'étape 36 à l'étape 39
 
+ 
 ----
 
 ### Le plan de montage du rover Education
@@ -89,6 +93,9 @@ Reprenez les instructions à l'étape 40
 [![plan de montage rover](images/montage-rover.png)](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
 
 [Plan de montage](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
+
+
+Le plan de montage contient aussi les instructions pour intégrer les divers capteurs.
 
 ----
 
