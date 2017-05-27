@@ -58,12 +58,13 @@ Ces commentaires sont détachés du programme.
 
 D'autres commentaires peuvent être ajoutés dans le programme pour nommer ou décrire les étapes. Ils permettent de s'y retrouver dans le programme.
 
-<br>
+<div><br></div>
 
 Les briques Commentaire sont dans le bac bleu
 
 ![Brique Commentaire](images/MindstormsApps-BacBleu-Comment.png)
 
+<div><br></div>
 
 Le commentaire général peut être ajouté en utilisant le bouton Commentaire en haut à droite de la fenêtre.
 
