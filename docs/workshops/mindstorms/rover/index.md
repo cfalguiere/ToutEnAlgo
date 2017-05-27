@@ -49,9 +49,9 @@ On va utiliser un autre système d'attache, par exemple un montage de ce type. I
 </div>
 
 
-[![plan de roue folle](images/rover-roue-folle.png)](html/rover-roue-folle.html)
+[![plan de roue folle](images/rover-roue-folle.png)](pdf/rover-roue-folle.pdf)
 
-[Plan de montage](html/rover-roue-folle.html)
+[Plan de montage](pdf/rover-roue-folle.pdf)
 
 
 Si vous n'avez pas de roue folle, vous pouvez utiliser un montage de ce type. Il faut s'assurer qu'il tourne bien sur tous les axes.
@@ -74,9 +74,9 @@ Cette pièce sert à compenser une rangée et attacher la brique de contrôle au
 
 Vous pouvez utiliser un montage de ce type.
 
-![plan de l'attache de la brique](images/pose-brique.png) 
+[![plan de l'attache de la brique](images/pose-brique.png)](pdf/rover-pose-brique.pdf)
 
-[Plan de montage](html/rover-pose-brique.html)
+[Plan de montage](pdf/rover-pose-brique.pdf)
 
 La barre  à l'arrière n'est pas indispensable. Elle permet de tenir les cables.
 
