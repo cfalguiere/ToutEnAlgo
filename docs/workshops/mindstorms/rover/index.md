@@ -27,24 +27,24 @@ Suivez les instructions jusqu'à l'étape 23
 
 ### L'attache de la roue folle
 
-Le rover Educator utilise une roue folle (back caster en anglais). C'est une pièce dans laquelle on insère une bille qui tourne librement. Cette roue est donc mobile dans toutes les directions et ne freine pas le robot.
+<div style="float:left"> ![roue folle](images/back-caster.png) 
+</div> 
 
-![roue folle](images/back-caster.png)]
+Le rover Educator utilise une roue folle (back caster en anglais). C'est une pièce dans laquelle on insère une bille qui tourne librement. Cette roue est donc mobile dans toutes les directions et ne freine pas le robot.
 
 La roue folle n'est pas fournie dans le kit commercial. Elles s'achètent par 2 pour une dizaine d'euros.
 
-Le rover Educator utilise aussi une piece en angle qui n'est pas fournie.  ![piece manquante](images/piece-manquante-1.png)]
+
+
+
+Le rover Educator utilise aussi une piece en angle qui n'est pas fournie.  ![piece manquante](images/piece-manquante-1.png)
 
 
 On va utiliser un autre système d'attache, par exemple un montage de ce type. Il est important que la roue folle ne soit pas trop en arrière du chassis pour bien soutenir le robot et que sa fixation soit rigide.
 
 ![plan de roue folle](images/rover-roue-folle.png)
 
-<div>
-<frameset cols="100%">
-<frame src="html/Building Instructions [rover-roue-folle].html" />
-</frameset>
-</div>
+[Plan de montage](html/Building Instructions [rover-roue-folle].html")
 
 
 Si vous n'avez pas de roue folle, vous pouvez utiliser un montage de ce type. Il faut s'assurer qu'il tourne bien sur tous les axes.
@@ -58,7 +58,7 @@ Si vous n'avez pas de roue folle, vous pouvez utiliser un montage de ce type. Il
 
 ### La pose de la brique de contrôle
 
-Le rover Educator utilise aussi une piece en angle qui n'est pas fournie.  ![piece manquante](images/piece-manquante-2.png)]
+Le rover Educator utilise aussi une piece en angle qui n'est pas fournie.  ![piece manquante](images/piece-manquante-2.png)
 
 Cette pièce sert à compenser une rangée et attacher la brique de contrôle aux moteurs à l'arrière du robot.
 
