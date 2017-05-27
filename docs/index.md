@@ -1,7 +1,7 @@
 # Nouveaux articles
 
 
-[![Rover](blog/images/rover)](workshops/mindstorms/rover) 
+[![Rover](blog/images/rover.png)](workshops/mindstorms/rover) 
 [![Concepteur](blog/images/concepteur.png)](workshops/mindstorms/concepteur) 
 [![Smiley](blog/images/robot-qui-dessine.png)](workshops/mindstorms/robot-qui-dessine/smiley.html)
 
