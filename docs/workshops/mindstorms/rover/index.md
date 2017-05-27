@@ -49,7 +49,7 @@ On va utiliser un autre système d'attache, par exemple un montage de ce type. I
 
 ![plan de roue folle](images/rover-roue-folle.png)
 
-[Plan de montage](html/Building Instructions [rover-roue-folle].html")
+[Plan de montage](html/Building-Instructions-rover-roue-folle.html)
 
 
 Si vous n'avez pas de roue folle, vous pouvez utiliser un montage de ce type. Il faut s'assurer qu'il tourne bien sur tous les axes.
@@ -63,7 +63,10 @@ Si vous n'avez pas de roue folle, vous pouvez utiliser un montage de ce type. Il
 
 ### La pose de la brique de contrôle
 
-Le rover Educator utilise aussi une piece en angle qui n'est pas fournie.  ![piece manquante](images/piece-manquante-2.png)
+Le rover Educator utilise aussi une piece en angle qui n'est pas fournie. 
+
+
+![piece manquante](images/piece-manquante-2.png)
 
 Cette pièce sert à compenser une rangée et attacher la brique de contrôle aux moteurs à l'arrière du robot.
 
