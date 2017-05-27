@@ -2,6 +2,14 @@
 
 ----
 
+## Le rover de base
+
+Le modèle le plus simple pour commencer un projet est le rover. 
+
+[![Rover](images/rover)](rover) 
+
+----
+
 ## Faire un véhicule
 
 [Utiliser les moteurs](bases/moteurs/les_moteurs.md)
