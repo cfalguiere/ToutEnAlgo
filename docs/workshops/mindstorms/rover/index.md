@@ -22,6 +22,7 @@ Les étapes modifiées sont :
 Suivez les instructions jusqu'à l'étape 23 
 
 [![plan de montage rover](images/montage-rover.png)](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
+[Plan de montage](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
 
 ----
 
@@ -47,9 +48,8 @@ On va utiliser un autre système d'attache, par exemple un montage de ce type. I
 </div>
 
 
-![plan de roue folle](images/rover-roue-folle.png)
-
-[Plan de montage](html/Building-Instructions-rover-roue-folle.html)
+[![plan de roue folle](images/rover-roue-folle.png)](html/rover-roue-folle.html)
+[Plan de montage](html/rover-roue-folle.html)
 
 
 Si vous n'avez pas de roue folle, vous pouvez utiliser un montage de ce type. Il faut s'assurer qu'il tourne bien sur tous les axes.
