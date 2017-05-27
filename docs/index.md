@@ -1,8 +1,8 @@
 # Nouveaux articles
 
 
-[![Mindstorms](blog/images/concepteur.png)](workshops/mindstorms/concepteur/index.md) 
-[![Mindstorms](blog/images/robot-qui-dessine.png)](workshops/mindstorms/robot-qui-dessine/smiley.md)
+[![Concepteur](blog/images/concepteur.png)](workshops/mindstorms/concepteur) 
+[![Smiley](blog/images/robot-qui-dessine.png)](workshops/mindstorms/robot-qui-dessine/smiley.md)
 
 
 # Les ateliers
