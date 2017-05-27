@@ -6,7 +6,7 @@
 
 Le modèle le plus simple pour commencer un projet est le rover. 
 
-[![Rover](images/rover.png)](rover) 
+[![Rover](images/rover.png)](rover/index.md) 
 
 ----
 
