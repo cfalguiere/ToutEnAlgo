@@ -76,7 +76,7 @@ Vous pouvez utiliser un montage de ce type.
 
 ![plan de l'attache de la brique](images/pose-brique.png) 
 
-[Plan de montage](html/Building Instructions [rover-pose-brique].html)
+[Plan de montage](html/rover-pose-brique.html)
 
 La barre  à l'arrière n'est pas indispensable. Elle permet de tenir les cables.
 
@@ -88,6 +88,7 @@ Reprenez les instructions à l'étape 40
 
 [![plan de montage rover](images/montage-rover.png)](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
 
+[Plan de montage](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
 
 ----
 
