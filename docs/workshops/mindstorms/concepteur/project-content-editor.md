@@ -10,6 +10,7 @@ Cet outil permet de créer une documentation de plusieurs pages qui indique comm
 
 Si vous voulez livrer un projet officiel, il est nécessaire de compléter cette partie du projet.
  
+<div><br></div>
 
 On y accède par le bouton le plus à droite du menu.
 
