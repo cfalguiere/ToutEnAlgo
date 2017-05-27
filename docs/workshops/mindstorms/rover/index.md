@@ -6,7 +6,7 @@
 
 Le kit Education fournit un montage de rover simple et rapide à monter conçu pour intégrer facilement les divers capteurs.
 
-![Rover](rover/images/rover.png)
+![Rover](images/rover.png)
 
 
 Il est en gros utilisable avec le kit commercial. Toutefois il manque quelques pièces. 
