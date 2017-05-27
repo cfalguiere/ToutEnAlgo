@@ -2,7 +2,7 @@
 
 
 [![Concepteur](blog/images/concepteur.png)](workshops/mindstorms/concepteur) 
-[![Smiley](blog/images/robot-qui-dessine.png)](workshops/mindstorms/robot-qui-dessine/smiley.md)
+[![Smiley](blog/images/robot-qui-dessine.png)](workshops/mindstorms/robot-qui-dessine/smiley.html)
 
 
 # Les ateliers
