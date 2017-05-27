@@ -34,16 +34,16 @@ Suivez les instructions jusqu'à l'étape 23
 ### L'attache de la roue folle
 
 <div style="float:left;margin-right:15px"><img src="images/back-caster.png"></div>
-<div style="margin-top:15px"><p>
+<div style="margin-top:50px"><p>
 Le rover Educator utilise une roue folle (back caster en anglais). C'est une pièce dans laquelle on insère une bille qui tourne librement. Cette roue est donc mobile dans toutes les directions et ne freine pas le robot. 
 
 La roue folle n'est pas fournie dans le kit commercial. Elles s'achètent par 2 pour une dizaine d'euros.
 </p>
 </div>
 
-<div style="clear:left;"><br></div>
+<div style="clear:left;">&nbsp;</div>
 
-<div style="float:right;margin-left:15px"><img src="images/piece-manquante-1.png"></div>
+<div style="float:right;margin-left:50px"><img src="images/piece-manquante-1.png"></div>
 <div  style="margin-top:15px">
 <p>
 Le rover Educator utilise aussi une piece en angle qui n'est pas fournie.
@@ -52,7 +52,7 @@ On va utiliser un autre système d'attache, par exemple un montage de ce type. I
 
 </p>
 </div>
-<div style="clear:right;"><br></div>
+<div style="clear:right;">&nbsp;</div>
 
 
 [![plan de roue folle](images/rover-roue-folle.png)](pdf/rover-roue-folle.pdf)
