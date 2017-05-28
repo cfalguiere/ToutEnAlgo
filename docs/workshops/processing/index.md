@@ -2,7 +2,7 @@
 
     Programmation 
     à partir de 10 ans
-    programmation par langage de programmation 
+    programmation en Java, JavaScript ou Python 
     gratuit
     
 
