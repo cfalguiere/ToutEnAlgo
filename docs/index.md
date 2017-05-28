@@ -1,6 +1,6 @@
-Comprendre ce qu'il y a derrière les écrans et apprendre l'informatique en s'amusant.
+# Comprendre ce qu'il y a derrière les écrans et apprendre l'informatique en s'amusant
 
-# Nouveaux articles
+## Nouveaux articles
 
 
 [![Rover](blog/images/rover.png)](workshops/mindstorms/rover) 
@@ -8,7 +8,7 @@ Comprendre ce qu'il y a derrière les écrans et apprendre l'informatique en s'a
 [![Smiley](blog/images/robot-qui-dessine.png)](workshops/mindstorms/robot-qui-dessine/smiley.html)
 
 
-# Les ateliers
+## Les ateliers
 
 [![Mindstorms](images/mindstorms-200-200.jpeg)](workshops/mindstorms)
 [![Arduino](images/arduino-200-200.jpeg)](workshops/arduino)
