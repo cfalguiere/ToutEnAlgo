@@ -1,12 +1,41 @@
 # Mindstorms
 
+
+    Robotique
+    à partir de 9 ans
+    programmation par bloc ou langage de programmation
+    un peu moins de 300€ par robot
+    
+
+Le Kit Lego Mindstorms EV3 est composé de pièces Lego Technic et de composants robotique : une brique de contrôle, des moteurs, des capteurs et une balise/télécommande infrarouge 
+
+![Kit](images/kit-mindstorms.png)
+
+Les programmes sont écrits en utilisant des blocs avec un des logiciels de programmation EV3 téléchargeavble sur le site
+
+![Programme](images/mindstorms-programme.png)
+
+L'objectif est d'apprendre les bases de la programmation et de la robotique au travers de modèles fournis avec le kit, par la communauté, ou en faisant ses propres expérimentation. 
+
+Le kit peut être étendu avec des pièces Lego Technic et d'autres capteurs. Il existe aussi des extensions du firmware pour programmer en C, Python, Java et l'intégrer avec d'autres systèmes électroniques ou de traitement de données.
+
+Les différents concours de robotique peuvent fournir des objectifs de progression.
+
+<br>
+Le site officiel Lego
+
+[Lego Mindstorms](https://www.lego.com/fr-fr/mindstorms)
+
+
 ----
 
 ## Le rover de base
 
+Le kit est fourni avec des modèles complètement documenté. Pour faire des expérimentations on va partir de modèles plus simples et modulables. 
+
 Le modèle le plus simple pour commencer un projet est le rover. Il est simple et rapide à monter conçu pour intégrer facilement les divers capteurs.
 
-[![Rover](rover/images/rover.png)](rover/index.md) 
+[![Rover](rover/images/rover.png)](rover/index.html) 
 
 ----
 
