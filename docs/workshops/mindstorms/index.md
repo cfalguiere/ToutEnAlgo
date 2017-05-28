@@ -37,6 +37,8 @@ Le modèle le plus simple pour commencer un projet est le rover. Il est simple e
 
 [![Rover](rover/images/rover.png)](rover/index.html) 
 
+[Monter le Rover](rover/index.html) 
+
 ----
 
 ## Faire un véhicule
