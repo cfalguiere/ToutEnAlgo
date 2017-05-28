@@ -19,6 +19,8 @@ L'objectif est d'apprendre les bases de la programmation et de la robotique au t
 
 Le kit peut être étendu avec des pièces Lego Technic et d'autres capteurs. Il existe aussi des extensions du firmware pour programmer en C, Python, Java et l'intégrer avec d'autres systèmes électroniques ou de traitement de données.
 
+Des ateliers sont menés dans le cadre du CoderDojo Paris. 
+
 Les différents concours de robotique peuvent fournir des objectifs de progression.
 
 <br>
@@ -31,7 +33,9 @@ Le site officiel Lego
 
 ## Le rover de base
 
-Le kit est fourni avec des modèles complètement documenté. Pour faire des expérimentations on va partir de modèles plus simples et modulables. 
+Le kit est fourni avec des modèles complètement documenté. 
+
+Pour faire les ateliers de 1 ou 2 heures, on va partir de modèles plus simples et modulables. 
 
 Le modèle le plus simple pour commencer un projet est le rover. Il est simple et rapide à monter conçu pour intégrer facilement les divers capteurs.
 
