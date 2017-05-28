@@ -8,7 +8,7 @@
 
 Processing est un logiciel destiné à la création d''images de synthèse et d'animations en particulier dans le domaine scientifique ou artistique.
 
-![Fractale en processing](processing-fractal.png)
+![Fractale en processing](images/processing-fractal.png)
 
 
 L'installation et la programmation sont simples à apprendre.  
