@@ -74,7 +74,7 @@ Arrêtez le logiciel puis démarrez le à nouveau
 
 Le capteur apparaît maintenant dans le bac jaune 
 
-![Gyro-sensor](images/start.png)
+![Gyro-sensor](images/gyro-sensor.png)
 
 
 Il apparaît aussi en option du bloc wait et du bloc switch 
