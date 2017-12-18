@@ -1,5 +1,5 @@
 
-{% include file.ext %}
+{% include header.ext %}
 
 # Comprendre ce qu'il y a derrière les écrans et apprendre l'informatique en s'amusant
 
