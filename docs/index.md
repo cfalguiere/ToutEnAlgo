@@ -1,13 +1,22 @@
 
 {% include header.ext %}
 
-# Comprendre ce qu'il y a derrière les écrans et apprendre l'informatique en s'amusant
+<h1>
+Nouveaux articles
+</h1>
 
-## Nouveaux articles
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
+# Articles
 
-[![Rover](blog/images/rover.png)](workshops/mindstorms/rover) 
-[![Concepteur](blog/images/concepteur.png)](workshops/mindstorms/concepteur) 
+[![Rover](blog/images/rover.png)](workshops/mindstorms/rover)
+[![Concepteur](blog/images/concepteur.png)](workshops/mindstorms/concepteur)
 [![Smiley](blog/images/robot-qui-dessine.png)](workshops/mindstorms/robot-qui-dessine/smiley.html)
 
 
