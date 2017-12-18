@@ -1,3 +1,6 @@
+
+{% include file.ext %}
+
 # Comprendre ce qu'il y a derrière les écrans et apprendre l'informatique en s'amusant
 
 ## Nouveaux articles
