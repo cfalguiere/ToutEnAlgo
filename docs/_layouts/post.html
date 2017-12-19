@@ -12,8 +12,8 @@ layout: default
 
   <div class="entry">
     <p>
-      {% if post.next %}
-        <a href="{{ post.next.url | relative_url  }}">Post Suivant: {{ post.next.title }}</a>
+      {% if page.next.url %}
+        <a href="{{ page.next.url | relative_url  }}">Post Suivant: {{ page.next.title }}</a>
       {% endif %}
     </p>
   </div>
