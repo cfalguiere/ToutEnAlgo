@@ -1,6 +1,4 @@
 
-{% include header.ext %}
-
 <h1>
 Nouveaux articles
 </h1>
