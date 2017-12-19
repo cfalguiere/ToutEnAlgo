@@ -1,5 +1,5 @@
 <div class="categories-title">
-  <a href="{{ site.url }}">Blog</a>
+  <a href="{{ site.url }}/ToutEnAlgo">Blog</a>
 </div>
 <hr>
 
