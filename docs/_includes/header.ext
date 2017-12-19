@@ -1,8 +1,7 @@
-<br>
 <div class="categories-title">
-  <a href="{{ site.categories['blog'].url | first }}">Blog</a>
+  <a href="{{ site.url }}">Blog</a>
 </div>
-<br>
+<hr>
 
 
 

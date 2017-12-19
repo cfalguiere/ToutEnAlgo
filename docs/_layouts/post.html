@@ -2,7 +2,7 @@
 layout: default
 ---
 <article class="post">
-  <h1>{{ page.title }}</h1>
+  <h2>{{ page.title }}</h2>
 
   <div class="entry">
     <p>
@@ -20,17 +20,16 @@ layout: default
 
 
   <div class="date">
-    <div style="float: left;">
-      Written on {{ page.date | date: "%B %e, %Y" }}
-    </div>
-    <div style="float: right;">
-      Tags:
-      {% for tag in page.tags %}
-        {{ tag }}
-      {% endfor %}
-    </div>
     <p>
-      &nbsp;
+      <div style="float: left;">
+        Written on {{ page.date | date: "%B %e, %Y" }}
+      </div>
+      <div style="float: right;">
+        Tags:
+        {% for tag in page.tags %}
+          {{ tag }}
+        {% endfor %}
+      </div>
     </p>
   </div>
 </article>
