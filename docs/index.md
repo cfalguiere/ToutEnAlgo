@@ -8,7 +8,7 @@ Nouveaux articles
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="ToutEnAlgo/{{ post.permalink }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
