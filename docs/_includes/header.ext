@@ -1,4 +1,10 @@
 Comprendre ce qu'il y a derrière les écrans et apprendre l'informatique en s'amusant
+<br>
+{% for category in site.categories %}
+    <div class="categories-title"><a href="/tags/#{{ category | first }}">{{ category | first }}</a></div>
+{% endfor %}
+<br>
+
 
 
 
