@@ -16,6 +16,30 @@
       Sorry, your browser does not support inline SVG.
     </svg>
   </div>
+  <div style="margin-left:10px;float:left;">
+    <svg height="150" width="150">
+      <polygon points="0,0 0,150 150,150 150,50 100,0" style="fill:#d22501" />
+      <a xlink:href="{{ site.url }}/ToutEnAlgo" target="_blank">
+        <text fill="black" font-family="Verdana" font-size="28">
+            <tspan x="20" y="65">Les</tspan>
+            <tspan x="20" y="100">Ateliers</tspan>
+        </text>
+      </a>
+      Sorry, your browser does not support inline SVG.
+    </svg>
+  </div>
+  <div style="margin-left:10px;float:left;">
+    <svg height="150" width="150">
+      <polygon points="0,0 0,150 150,150 150,50 100,0" style="fill:#91a61d" />
+      <a xlink:href="{{ site.url }}/ToutEnAlgo" target="_blank">
+        <text fill="black" font-family="Verdana" font-size="28">
+            <tspan x="20" y="65">Les</tspan>
+            <tspan x="20" y="100">Infos</tspan>
+        </text>
+      </a>
+      Sorry, your browser does not support inline SVG.
+    </svg>
+  </div>
   <div style="clear: both;">
   </div>
 

@@ -1,0 +1,8 @@
+http://www.color-hex.com/color-palette/52145
+
+Color 	Hex 	RGB
+	#ed8b06 	(237,139,6)   orange
+	#d22501 	(210,37,1)    rouge
+	#88472e 	(136,71,46)   marron
+	#91a61d 	(145,166,29)  vert
+	#f19f00 	(241,159,0)   orange
