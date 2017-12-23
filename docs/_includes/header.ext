@@ -1,5 +1,5 @@
 <div id="title">
-  <div style="float:left;">
+  <div style="margin-right:15px;float:left;">
     <a href="{{ site.url }}/ToutEnAlgo">
       <img style="margin-bottom:10px;" src="/{{ site.title | default: site.github.repository_name }}/assets/images/logo-toutenalgo-150-150.png">
     </a>
