@@ -16,7 +16,7 @@
       Sorry, your browser does not support inline SVG.
     </svg>
   </div>
-  <div style="float:clean;">
+  <div style="clear: both;">
   </div>
 
 </div>
