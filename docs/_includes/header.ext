@@ -1,8 +1,10 @@
 <div class="categories-title">
-  <a href="{{ site.url }}/ToutEnAlgo">
-    <img style="margin-bottom:10px;" src="/{{ site.title | default: site.github.repository_name }}/assets/images/logo-toutenalgo-150-150.png">
-  </a>
-  <div style="margin-left:10;float:right;">
+  <div style="margin-left:10;float:left;">
+    <a href="{{ site.url }}/ToutEnAlgo">
+      <img style="margin-bottom:10px;" src="/{{ site.title | default: site.github.repository_name }}/assets/images/logo-toutenalgo-150-150.png">
+    </a>
+  </div>
+  <div style="margin-left:10;float:left;">
     <svg height="150" width="150">
       <polygon points="0,0 0,150 150,150 150,50 100,0" style="fill:#f19f00" />
       <a xlink:href="{{ site.url }}/ToutEnAlgo" target="_blank">
