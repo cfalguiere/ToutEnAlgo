@@ -8,10 +8,8 @@ published: true
 assetId: le-robot-qui-dessine-v2
 ---
 
-## Le robot qui dessine
-
 ### Le plan de montage
 
 
-![Etape 1](assets/{{page.assetId}}/1-1-step1.png)
+![Etape 1](/ToutEnAlgo/assets/{{page.assetId}}/1-1-step1.png)
 
