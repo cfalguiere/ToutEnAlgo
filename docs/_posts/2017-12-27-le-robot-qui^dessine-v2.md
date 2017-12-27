@@ -11,5 +11,5 @@ assetId: le-robot-qui-dessine-v2
 ### Le plan de montage
 
 
-![Etape 1]({{page.assetId}}/1-1-step1.png)
+![Etape 1](/ToutEnAlgo/assets/{{page.assetId}}/1-1-step1.png)
 
