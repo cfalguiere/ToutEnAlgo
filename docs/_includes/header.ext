@@ -1,9 +1,13 @@
 <div id="title">
-  <div style="margin-right:15px;float:left;">
+  <div style="margin-right:15px;float:left;width:50%">
     <a href="{{ site.url }}/ToutEnAlgo">
-      <img style="margin-bottom:10px;" src="/{{ site.title | default: site.github.repository_name }}/assets/images/logo-toutenalgo-150-150.png">
+      <img style="margin-bottom:10px;" src="/{{ site.title | default: site.github.repository_name }}/assets/images/logo-toutenalgo-v3-white-1000x200.png">
     </a>
   </div>
+</div>
+
+<div class="categories-title">
+
   <div style="margin-left:10px;float:left;">
     <svg height="150" width="150">
       <polygon points="0,0 0,150 150,150 150,50 100,0" style="fill:#f19f00" />
@@ -16,6 +20,7 @@
       Sorry, your browser does not support inline SVG.
     </svg>
   </div>
+
   <div style="margin-left:10px;float:left;">
     <svg height="150" width="150">
       <polygon points="0,0 0,150 150,150 150,50 100,0" style="fill:#d22501" />
@@ -28,18 +33,20 @@
       Sorry, your browser does not support inline SVG.
     </svg>
   </div>
+
   <div style="margin-left:10px;float:left;">
     <svg height="150" width="150">
       <polygon points="0,0 0,150 150,150 150,50 100,0" style="fill:#91a61d" />
       <a xlink:href="{{ site.url }}/ToutEnAlgo" target="_blank">
         <text fill="black" font-family="Verdana" font-size="28">
             <tspan x="20" y="65">Les</tspan>
-            <tspan x="20" y="100">Infos</tspan>
+            <tspan x="20" y="100">Thèmes</tspan>
         </text>
       </a>
       Sorry, your browser does not support inline SVG.
     </svg>
   </div>
+
   <div style="clear: both;">
   </div>
   <!--
