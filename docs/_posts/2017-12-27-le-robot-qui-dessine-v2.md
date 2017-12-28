@@ -17,9 +17,9 @@ Dans la conception il est important que le stylo se trouve entre les roues avant
 Après plusieurs essai ratés nous avons constaté le robot ne doit pas avoir pas être trop lourd (il emporte la feuille) et ne doit pas avoir trop de poids à l'arrière (il pivote sur la roue folle à l'arrière au lieu de pivoter sur les roues avant)
 
 ![Rover Monté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-all.png)
-![Porte-stylo Monté]({{page.assetsFolder}}/0-ensemble/portestylo-monté.png)
+![Porte-stylo Monté]({{page.assetsFolder}}/0-ensemble/portestylo-ready.png)
 
 Le rover va être construit en trois parties : le support du moteur annexe, les roues et le support de la brique de contrôle.
 
-![Rover Eclaté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-éclaté.png)
+![Rover Eclaté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-exploded.png)
 
