@@ -12,13 +12,13 @@ assetsFolder: /ToutEnAlgo/assets/le-robot-qui-dessine-v2
 
 Le robot qui dessine est construit sur une base de rover. Un petit moteur annexe est placé dans le rover pour poser/lever le stylo.
 
-![Rover Monté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-all.png)
+![Rover Monté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-all-small.png)
 
 Ce moteur va actionner un bras mobile à l'avant. Lorsque le bras est en position basse le robot peut écrire. Quand il est en position haute le stylo ne touche plus la feuille.
 
 Dans la conception il est important que le stylo se trouve entre les roues avant. De cette manière lorsque le robot pivote, le stylo peut dessiner un angle. 
 
-![Porte-stylo Monté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-all-avec-porte-stylo.png)
+![Porte-stylo Monté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-all-avec-porte-stylo-small.png)
 
 Comme le moteur tourne sur un plan horizontal et que l'on veut convertir ce mouvement en déplacement vertical linéaire on va utiliser deux mécanismes.
 
