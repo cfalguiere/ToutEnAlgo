@@ -10,7 +10,7 @@
 
 <div class="categories-title">
 
-  <div style="margin-left:10px;">
+  <div style="margin-left:5px;">
     <svg height="150" width="150">
       <polygon points="0,0 0,150 150,150 150,50 100,0" style="fill:#f19f00" />
       <a xlink:href="{{ site.url }}/ToutEnAlgo" target="_blank">
@@ -23,7 +23,7 @@
     </svg>
   </div>
 
-  <div style="margin-left:10px;float:left;">
+  <div style="margin-left:5px;float:left;">
     <svg height="150" width="150">
       <polygon points="0,0 0,150 150,150 150,50 100,0" style="fill:#d22501" />
       <a xlink:href="{{ site.url }}/ToutEnAlgo" target="_blank">
@@ -36,7 +36,7 @@
     </svg>
   </div>
 
-  <div style="margin-left:10px;float:left;">
+  <div style="margin-left:5px;float:left;">
     <svg height="150" width="150">
       <polygon points="0,0 0,150 150,150 150,50 100,0" style="fill:#91a61d" />
       <a xlink:href="{{ site.url }}/ToutEnAlgo" target="_blank">
