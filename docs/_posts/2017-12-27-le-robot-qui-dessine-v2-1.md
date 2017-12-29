@@ -42,11 +42,10 @@ Après plusieurs essais ratés nous avons constaté que le robot ne doit pas avo
 
 ### Le plan de montage
 
-Le rover va être construit en quatre parties : 
+Le rover va être construit en trois parties : 
 
-- [le moteur du porte-stylo]({{site.prefix}}/blog/2017/12/27/le-robot-qui-dessine-v2-1), 
-- le porte-stylo,
-- les roues 
+- [le porte-stylo]({{site.prefix}}/blog/2017/12/28/le-robot-qui-dessine-v2-2), 
+- [le chassis]({{site.prefix}}/blog/2017/12/28/le-robot-qui-dessine-v2-3) 
 - le support de la brique de contrôle.
 
 ![Rover Eclaté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-avec-porte-stylo-exploded.png)
