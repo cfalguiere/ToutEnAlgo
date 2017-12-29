@@ -5,7 +5,7 @@ date: '2017-12-29 20:30:00 CET'
 category: Blog
 tags: ['Mindstorms', 'Demo']
 published: true
-assetsFolder: {{site.prefix}}/assets/le-robot-qui-dessine-v2/2-roues
+assetsFolder: /ToutEnAlgo/assets/le-robot-qui-dessine-v2/2-roues
 ---
 
 Ce billet est la troisième partie de la construction du [robot qui dessine]({{site.prefix}}/blog/2017/12/27/le-robot-qui-dessine-v2-1).
