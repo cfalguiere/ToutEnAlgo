@@ -12,19 +12,17 @@ Ce billet est la quatrième partie de la construction du [robot qui dessine]({{s
 
 L'objectif dans cette étape est d'assembler le support de la brique de contrôle.
 
-![Montage terminé]({{page.assetsFolder}}/3-completed.png)
+![Montage terminé]({{page.assetsFolder}}/3-completed-small.png)
 
 Il faut assembler la brique de contrôle et les éléments qui permettront de la fixer au chassis. 
 
-Montez TODO
+Montez les supports arrière
 
 ![1]({{page.assetsFolder}}/3-1-steps.png)
 
-Assemblez TODO
+Assemblez les supports avant
 
 ![3]({{page.assetsFolder}}/3-3-steps.png)
-
-Assemblez TODO 
 
 ![4]({{page.assetsFolder}}/3-4-steps.png)
 
