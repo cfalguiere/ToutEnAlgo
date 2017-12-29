@@ -11,6 +11,7 @@ assetsFolder: /ToutEnAlgo/assets/le-robot-qui-dessine-v2
 ### Les principes de fonctionnement
 
 Le robot qui dessine est construit sur une base de rover. 
+
 ![Rover Monté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-all-small.png)
 
 
@@ -35,7 +36,7 @@ Le bras à l'avant convertit la rotation de l'axe en mouvement de haut en bas. L
 
 ![Linear actuator 2]({{page.assetsFolder}}/0-ensemble/linear-actuator-2.png)
 
-### Les point d'attention
+### Les points d'attention
 
 Après plusieurs essais ratés nous avons constaté que le robot ne doit pas avoir pas être trop lourd (il emporte la feuille de papier) et ne doit pas avoir trop de poids à l'arrière (il pivote sur la roue folle à l'arrière au lieu de pivoter sur les roues avant)
 
@@ -43,9 +44,8 @@ Après plusieurs essais ratés nous avons constaté que le robot ne doit pas avo
 ### Le plan de montage
 
 Le rover va être construit en trois parties : 
-
 - [le porte-stylo]({{site.prefix}}/blog/2017/12/28/le-robot-qui-dessine-v2-2), 
-- [le chassis]({{site.prefix}}/blog/2017/12/28/le-robot-qui-dessine-v2-3) 
+- [le chassis]({{site.prefix}}/blog/2017/12/28/le-robot-qui-dessine-v2-3),
 - le support de la brique de contrôle.
 
 ![Rover Eclaté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-avec-porte-stylo-exploded.png)
