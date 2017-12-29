@@ -20,13 +20,23 @@ Il faut assembler un petit moteur, plusieurs engrenages pour changer l'axe de ro
 
 ![Vision explosée]({{page.assetsFolder}}/1-petit-moteur/1-exploded.png)
 
+Monter le cadre et les deux engrenages.
+
 ![1]({{page.assetsFolder}}/1-petit-moteur/1-1-steps.png)
+
+Ajouter les supports sur le cadre.
 
 ![3]({{page.assetsFolder}}/1-petit-moteur/1-3-steps.png)
 
+Ajouter la barre verticale des bras du porte-stylo. La partie basse tourne avec l'axe. En haut, la pièce de connexion grise est sans friction. La même en noir ne permetra pas au bras de bouger.
+
 ![5]({{page.assetsFolder}}/1-petit-moteur/1-5-steps.png)
 
+Placer les supports sur le moteur
+
 ![7]({{page.assetsFolder}}/1-petit-moteur/1-7-steps.png)
+
+Connecter le petit moteur aux engrenages 
 
 ![9]({{page.assetsFolder}}/1-petit-moteur/1-9-steps.png)
 
