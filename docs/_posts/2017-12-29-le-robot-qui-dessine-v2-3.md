@@ -5,33 +5,30 @@ date: '2017-12-29 20:30:00 CET'
 category: Blog
 tags: ['Mindstorms', 'Demo']
 published: true
-assetsFolder: /ToutEnAlgo/assets/le-robot-qui-dessine-v2/2-roues
+assetsFolder: /ToutEnAlgo/assets/le-robot-qui-dessine-v2/4-orte-stylo
 ---
 
 Ce billet est la troisième partie de la construction du [robot qui dessine]({{site.prefix}}/blog/2017/12/27/le-robot-qui-dessine-v2-1).
 
-L'objectif dans cette étape est d'assembler le chassis.
+L'objectif dans cette étape est d'assembler le porte stylo et le fixer au moteur de l'étape précédente.
 
-![Montage terminé]({{page.assetsFolder}}/2-completed-small.png)
+![Montage terminé]({{page.assetsFolder}}/4-completed.png)
 
-Il faut assembler les gros moteurs, les roues, des barres derrières et dessous pour assurer la rigidité et la roue folle. 
+Il faut assembler les deux bras qui seront raccordés au moteur et le support du stylo. 
 
-Montez les roues sur les moteurs pour les deux côtés.
+Montez les deux bras. Il faut absolument utiliser les connecteurs gris sans friction pour que les bras puissent poser/lever.
 
-![1]({{page.assetsFolder}}/2-1-steps.png)
+![1]({{page.assetsFolder}}/4-1-steps.png)
 
-Assemblez la barre de dessous
+Assemblez le support du stylo
 
-![3]({{page.assetsFolder}}/2-3-steps.png)
+![2]({{page.assetsFolder}}/4-2-steps.png)
 
-Assemblez la barre arrière 
+Assemblez les trois éléments 
 
-![4]({{page.assetsFolder}}/2-4-steps.png)
+![all]({{page.assetsFolder}}/4-all-steps.png)
 
-Assemblez la roue folle
+Fixez le porte-stylo sur la barre verticale déjà en place côté moteur 
 
-![5]({{page.assetsFolder}}/2-5-steps.png)
-Vous pouvez maintenant assembler le tout
-
-![Vision explosée]({{page.assetsFolder}}/2-all-steps.png)
+![With motor]({{page.assetsFolder}}/4-with-motor.png)
 
