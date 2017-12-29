@@ -16,9 +16,7 @@ L'objectif dans cette étape est d'assembler le chassis.
 
 Il faut assembler les gros moteurs, les roues, des barres derrières et dessous pour assurer la rigidité et la roue folle. 
 
-![Vision explosée]({{page.assetsFolder}}/2-all-steps.png)
-
-Monter les roues sur les moteurs pour les deux côtés.
+Montez les roues sur les moteurs pour les deux côtés.
 
 ![1]({{page.assetsFolder}}/2-1-steps.png)
 
