@@ -45,7 +45,7 @@ Après plusieurs essais ratés nous avons constaté que le robot ne doit pas avo
 
 Le rover va être construit en trois parties : 
 - [le porte-stylo]({{site.prefix}}/blog/2017/12/28/le-robot-qui-dessine-v2-2), 
-- [le chassis]({{site.prefix}}/blog/2017/12/28/le-robot-qui-dessine-v2-3),
+- [le chassis]({{site.prefix}}/blog/2017/12/29/le-robot-qui-dessine-v2-3),
 - le support de la brique de contrôle.
 
 ![Rover Eclaté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-avec-porte-stylo-exploded.png)
