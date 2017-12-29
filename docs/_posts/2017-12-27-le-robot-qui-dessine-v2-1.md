@@ -20,6 +20,8 @@ Dans la conception il est important que le stylo se trouve entre les roues avant
 
 ![Porte-stylo Monté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-all-avec-porte-stylo-small.png)
 
+### La gestion du bras
+
 Comme le moteur tourne sur un plan horizontal et que l'on veut convertir ce mouvement en déplacement vertical linéaire on va utiliser deux mécanismes.
 
 Les deux engrenages font tourner un axe qui est perpendiculaire au moteur. L'engrenage jaune est entraîné par le moteur, il fait tourner l'engrenage noir qui faut tourner l'axe.
@@ -30,7 +32,9 @@ Le bras à l'avant convertit la rotation de l'axe en mouvement de haut en bas. L
 
 ![Linear actuator 2]({{page.assetsFolder}}/0-ensemble/linear-actuator-2.png)
 
-Après plusieurs essai ratés nous avons constaté le robot ne doit pas avoir pas être trop lourd (il emporte la feuille de papier) et ne doit pas avoir trop de poids à l'arrière (il pivote sur la roue folle à l'arrière au lieu de pivoter sur les roues avant)
+### Les point d'attention
+
+Après plusieurs essais ratés nous avons constaté le robot ne doit pas avoir pas être trop lourd (il emporte la feuille de papier) et ne doit pas avoir trop de poids à l'arrière (il pivote sur la roue folle à l'arrière au lieu de pivoter sur les roues avant)
 
 
 ### Le plan de montage
