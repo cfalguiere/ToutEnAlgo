@@ -10,9 +10,13 @@ assetsFolder: /ToutEnAlgo/assets/le-robot-qui-dessine-v2
 
 ### Les principes de fonctionnement
 
-Le robot qui dessine est construit sur une base de rover. Un petit moteur annexe est placé dans le rover pour poser/lever le stylo.
-
+Le robot qui dessine est construit sur une base de rover. 
 ![Rover Monté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-all-small.png)
+
+
+### Comment poser et lever le stylo ?
+
+Un petit moteur annexe est placé dans le rover pour poser/lever le stylo.
 
 Ce moteur va actionner un bras mobile à l'avant. Lorsque le bras est en position basse le robot peut écrire. Quand il est en position haute le stylo ne touche plus la feuille.
 
@@ -20,11 +24,10 @@ Dans la conception il est important que le stylo se trouve entre les roues avant
 
 ![Porte-stylo Monté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-all-avec-porte-stylo-small.png)
 
-### La gestion du bras
 
 Comme le moteur tourne sur un plan horizontal et que l'on veut convertir ce mouvement en déplacement vertical linéaire on va utiliser deux mécanismes.
 
-Les deux engrenages font tourner un axe qui est perpendiculaire au moteur. L'engrenage jaune est entraîné par le moteur, il fait tourner l'engrenage noir qui faut tourner l'axe.
+Les deux engrenages font tourner un axe qui est perpendiculaire au moteur. L'engrenage jaune est entraîné par le moteur, il fait tourner l'engrenage noir qui fait tourner l'axe.
 
 ![Linear actuator 1]({{page.assetsFolder}}/0-ensemble/linear-actuator-1.png)
 
@@ -34,7 +37,7 @@ Le bras à l'avant convertit la rotation de l'axe en mouvement de haut en bas. L
 
 ### Les point d'attention
 
-Après plusieurs essais ratés nous avons constaté le robot ne doit pas avoir pas être trop lourd (il emporte la feuille de papier) et ne doit pas avoir trop de poids à l'arrière (il pivote sur la roue folle à l'arrière au lieu de pivoter sur les roues avant)
+Après plusieurs essais ratés nous avons constaté que le robot ne doit pas avoir pas être trop lourd (il emporte la feuille de papier) et ne doit pas avoir trop de poids à l'arrière (il pivote sur la roue folle à l'arrière au lieu de pivoter sur les roues avant)
 
 
 ### Le plan de montage

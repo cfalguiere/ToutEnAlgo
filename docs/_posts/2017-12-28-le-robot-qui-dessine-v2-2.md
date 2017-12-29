@@ -8,7 +8,9 @@ published: true
 assetsFolder: /ToutEnAlgo/assets/le-robot-qui-dessine-v2
 ---
 
-Ce billet est la seconde partie de la construction du [robot qui dessine](/ToutEnAlgo/{% post_url 2017-12-27-le-robot-qui-dessine-v2-1 %}).
+Ce billet est la seconde partie de la construction du [robot qui dessine](/{% post_url 2017-12-27-le-robot-qui-dessine-v2-1 %}).
+
+{% post_url 2017-12-27-le-robot-qui-dessine-v2-1 %}
 
 L'objectif dans cette étape est de monter le moteur qui actionne le porte-stylo.
 
