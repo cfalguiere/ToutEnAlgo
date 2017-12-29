@@ -37,7 +37,7 @@ Après plusieurs essai ratés nous avons constaté le robot ne doit pas avoir pa
 
 Le rover va être construit en quatre parties : 
 
-- le support du moteur annexe, 
+- [le moteur du porte-stylo](/{{site.title}}/{% post_url 2017-12-27-le-robot-qui-dessine-v2-2 %}), 
 - le porte-stylo,
 - les roues 
 - le support de la brique de contrôle.
