@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Le robot qui dessine V2
+title: Le robot qui dessine V2 - 1
 date: '2017-12-27 20:30:00 CET'
 category: Blog
 tags: ['Mindstorms', 'Demo']
@@ -22,11 +22,11 @@ Dans la conception il est important que le stylo se trouve entre les roues avant
 
 Comme le moteur tourne sur un plan horizontal et que l'on veut convertir ce mouvement en déplacement vertical linéaire on va utiliser deux mécanismes.
 
-Les deux engrenages (le petit jaune et le grand noir) font tourner un axe qui est perpendiculaire au moteur.
+Les deux engrenages font tourner un axe qui est perpendiculaire au moteur. L'engrenage jaune est entraîné par le moteur, il fait tourner l'engrenage noir qui faut tourner l'axe.
 
 ![Linear actuator 1]({{page.assetsFolder}}/0-ensemble/linear-actuator-1.png)
 
-Le bras à l'avant convertit la rotation en mouvement de haut en bas. Lorsque l'axe tourne les barres di bas tournent avec l'axe. Le reste des barres suit le mouvement.
+Le bras à l'avant convertit la rotation de l'axe en mouvement de haut en bas. Lorsque l'axe tourne les barres di bas tournent avec l'axe. Le reste des barres suit le mouvement.
 
 ![Linear actuator 2]({{page.assetsFolder}}/0-ensemble/linear-actuator-2.png)
 
