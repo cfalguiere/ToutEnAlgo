@@ -12,7 +12,7 @@ Ce billet est la seconde partie de la construction du [robot qui dessine]({{site
 
 L'objectif dans cette étape est de monter le moteur qui actionne le porte-stylo.
 
-![Montage terminé]({{page.assetsFolder}}/1-petit-moteur/1-completed.png)
+![Montage terminé]({{page.assetsFolder}}/1-petit-moteur/1-completed-small.png)
 
 Les détails du fonctionnement de cette pièce sont expliqués dans la [première partie]({% post_url 2017-12-27-le-robot-qui-dessine-v2-1 %}).
 
