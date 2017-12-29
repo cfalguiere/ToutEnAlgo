@@ -12,11 +12,11 @@ Ce billet est la troisième partie de la construction du [robot qui dessine]({{s
 
 L'objectif dans cette étape est d'assembler le chassis.
 
-![Montage terminé]({{page.assetsFolder}}/2-completed.png)
+![Montage terminé]({{page.assetsFolder}}/2-completed-small.png)
 
 Il faut assembler les gros moteurs, les roues, des barres derrières et dessous pour assurer la rigidité et la roue folle. 
 
-![Vision explosée]({{page.assetsFolder}}/1-petit-moteur/1-exploded.png)
+![Vision explosée]({{page.assetsFolder}}/2-all-steps.png)
 
 Monter les roues sur les moteurs pour les deux côtés.
 
