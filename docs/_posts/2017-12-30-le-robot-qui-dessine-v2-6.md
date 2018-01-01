@@ -20,7 +20,7 @@ Le robot tout assemblé va ressembler à ça.
 
 ![Montage terminé]({{page.assetsFolder}}/dessinateurv2-all-avec-porte-stylo-small.png)
 
-Pour le moment, il est 3 parties
+Pour le moment, il est en 3 parties
 
 ![Vision explosée]({{page.assetsFolder}}/dessinateurv2-avec-porte-stylo-exploded.png)
 
