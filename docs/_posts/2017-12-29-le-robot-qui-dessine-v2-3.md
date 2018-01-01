@@ -12,7 +12,7 @@ Ce billet est la troisième partie de la construction du [robot qui dessine]({{s
 
 L'objectif dans cette étape est d'assembler le porte stylo et le fixer au moteur de l'étape précédente.
 
-![Montage terminé]({{page.assetsFolder}}/4-completed.png)
+![Montage terminé]({{page.assetsFolder}}/4-completed-small.png)
 
 Les pièces nécessaires
  
