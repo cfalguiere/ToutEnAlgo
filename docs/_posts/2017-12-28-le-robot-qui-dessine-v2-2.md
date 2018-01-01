@@ -20,6 +20,10 @@ Il faut assembler un petit moteur, plusieurs engrenages pour changer l'axe de ro
 
 ![Vision explosée]({{page.assetsFolder}}/1-exploded.png)
 
+Les pièces nécessaires
+ 
+![BOM]({{page.assetsFolder}}/BOM-moteur.png)
+
 Monter le cadre et les deux engrenages.
 
 ![1]({{page.assetsFolder}}/1-1-steps.png)

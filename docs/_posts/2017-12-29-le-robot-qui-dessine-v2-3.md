@@ -14,9 +14,13 @@ L'objectif dans cette étape est d'assembler le porte stylo et le fixer au moteu
 
 ![Montage terminé]({{page.assetsFolder}}/4-completed.png)
 
+Les pièces nécessaires
+ 
+![BOM]({{page.assetsFolder}}/BOM-stylo.png)
+
 Il faut assembler les deux bras qui seront raccordés au moteur et le support du stylo. 
 
-Montez les deux bras. Il faut absolument utiliser les connecteurs gris sans friction pour que les bras puissent poser/lever.
+Montez les deux bras. Il faut absolument utiliser les connecteurs gris sans friction pour que les bras puissent poser/ilever.
 
 ![1]({{page.assetsFolder}}/4-1-steps.png)
 

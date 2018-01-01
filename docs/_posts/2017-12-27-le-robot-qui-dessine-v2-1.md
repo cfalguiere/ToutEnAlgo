@@ -51,3 +51,7 @@ Le rover va être construit en quatre parties :
 
 ![Rover Eclaté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-avec-porte-stylo-exploded.png)
 
+l'ensemble des pièces 
+
+[la liste des pièces nécessaires]({{page.assetsFolder}}/BOM-dessinateurv2-avec-porte-stylo.xlsx), 
+

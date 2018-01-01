@@ -14,6 +14,10 @@ L'objectif dans cette étape est d'assembler le chassis.
 
 ![Montage terminé]({{page.assetsFolder}}/2-completed-small.png)
 
+Les pièces nécessaires
+ 
+![BOM]({{page.assetsFolder}}/BOM-chassis.png)
+
 Il faut assembler les gros moteurs, les roues, des barres derrières et dessous pour assurer la rigidité et la roue folle. 
 
 Montez les roues sur les moteurs pour les deux côtés.
