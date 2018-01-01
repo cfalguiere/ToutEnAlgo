@@ -51,7 +51,6 @@ Le rover va être construit en quatre parties :
 
 ![Rover Eclaté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-avec-porte-stylo-exploded.png)
 
-l'ensemble des pièces 
+La liste complète des pièces nécessaires peut être téléchargée [ici]({{page.assetsFolder}}/BOM-dessinateurv2-avec-porte-stylo.xlsx). Toutes les pièces proviennent du kit EV3 Home.
 
-[la liste des pièces nécessaires]({{page.assetsFolder}}/BOM-dessinateurv2-avec-porte-stylo.xlsx), 
 

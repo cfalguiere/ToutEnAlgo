@@ -5,7 +5,7 @@ date: '2017-12-29 20:30:00 CET'
 category: Blog
 tags: ['Mindstorms', 'Demo']
 published: true
-assetsFolder: /ToutEnAlgo/assets/le-robot-qui-dessine-v2/4-orte-stylo
+assetsFolder: /ToutEnAlgo/assets/le-robot-qui-dessine-v2/4-porte-stylo
 ---
 
 Ce billet est la troisième partie de la construction du [robot qui dessine]({{site.prefix}}/blog/2017/12/27/le-robot-qui-dessine-v2-1).
@@ -20,7 +20,7 @@ Les pièces nécessaires
 
 Il faut assembler les deux bras qui seront raccordés au moteur et le support du stylo. 
 
-Montez les deux bras. Il faut absolument utiliser les connecteurs gris sans friction pour que les bras puissent poser/ilever.
+Montez les deux bras. Il faut absolument utiliser les connecteurs gris sans friction pour que les bras puissent poser/lever le stylo.
 
 ![1]({{page.assetsFolder}}/4-1-steps.png)
 
