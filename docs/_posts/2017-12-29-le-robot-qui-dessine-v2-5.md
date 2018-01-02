@@ -22,13 +22,13 @@ Il faut assembler la brique de contrôle et les éléments qui permettront de la
 
 Montez les supports arrière
 
-![1]({{page.assetsFolder}}/3-1-steps.png)
+![1]({{page.assetsFolder}}/3-1-steps-small.png)
 
 Assemblez les supports avant
 
-![3]({{page.assetsFolder}}/3-3-steps.png)
+![3]({{page.assetsFolder}}/3-3-steps-small.png)
 
-![4]({{page.assetsFolder}}/3-4-steps.png)
+![4]({{page.assetsFolder}}/3-4-steps-small.png)
 
 Vous pouvez maintenant assembler tous les éléments du support de la brique
 
