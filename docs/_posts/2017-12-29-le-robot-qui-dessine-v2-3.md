@@ -22,11 +22,11 @@ Il faut assembler les deux bras qui seront raccordés au moteur et le support du
 
 Montez les deux bras. Il faut absolument utiliser les connecteurs gris sans friction pour que les bras puissent poser/lever le stylo.
 
-![1]({{page.assetsFolder}}/4-1-steps.png)
+![1]({{page.assetsFolder}}/4-1-steps-small.png)
 
 Assemblez le support du stylo
 
-![2]({{page.assetsFolder}}/4-2-steps.png)
+![2]({{page.assetsFolder}}/4-2-steps-small.png)
 
 Assemblez les trois éléments 
 
