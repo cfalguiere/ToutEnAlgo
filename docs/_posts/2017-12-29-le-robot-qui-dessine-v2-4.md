@@ -26,11 +26,11 @@ Montez les roues sur les moteurs pour les deux côtés.
 
 Assemblez la barre de dessous
 
-![3]({{page.assetsFolder}}/2-3-steps.png)
+![3]({{page.assetsFolder}}/2-3-steps-small.png)
 
 Assemblez la barre arrière 
 
-![4]({{page.assetsFolder}}/2-4-steps.png)
+![4]({{page.assetsFolder}}/2-4-steps-small.png)
 
 Assemblez la roue folle
 
