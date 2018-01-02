@@ -26,17 +26,17 @@ Pour le moment, il est en 3 parties
 
 Le schéma suivant montre à quel endroit le dessous du chassis se fixe sur le petit moteur.
 
-![chassis-moteur]({{page.assetsFolder}}/chassis-moteur.png)
+![chassis-moteur]({{page.assetsFolder}}/chassis-moteur-small.png)
 
 Le schéma suivant montre à quel endroit la brique s'attache sur le chassis.
 
-![chassis-brique]({{page.assetsFolder}}/chassis-brique.png)
+![chassis-brique]({{page.assetsFolder}}/chassis-brique-small.png)
 
 Il ne reste plus qu'à fixer les cables.
 - les deux gros moteurs sont connectés sur B et C
 - le petit moteur est connecté sur D
 
-![cablage]({{page.assetsFolder}}/cablage.png)
+![cablage]({{page.assetsFolder}}/cablage-small.png)
 
 ### Le projet exemple
 
@@ -63,12 +63,12 @@ La figure la plus simple à tracer est le cercle.
 
 Avant de lancer, il faut positionner la pointe du stylo au niveau de la feuille
 
-![cercle]({{page.assetsFolderProgramme}}/cercle.png)
+![cercle]({{page.assetsFolderProgramme}}/cercle-small.png)
 
 > Si on ne fait tourner qu'une roue, le robot va tourner autour de l'autre roue. Ici, on fait avancer la roue commandée par B, la roue gauche. La roue droite reste immobile et le robot va pivoter sur cette roue. Si on fait ça suffisamment longtemps, le robot trace un cercle. 
 
 Aller plus loin :
-- comment peut on calculer le rayon de ce cercle ?
+- comment peut on calculer le rayon de ce cerclsmae ?
 - comment calculer le nombre de tours de roues nécessaires pour faire le cercle complet 
 - comment peut on faire un cercle plus large ?
 

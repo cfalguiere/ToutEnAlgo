@@ -8,7 +8,7 @@ published: true
 assetsFolder: /ToutEnAlgo/assets/le-robot-qui-dessine-v2/3-brique
 ---
 
-Ce billet est la cinquième partie de la construction du [robot qui dessine]({{site.prefix}}/blog/2017/12/27/le-robot-qui-dessine-v2-1).
+Ce billet est la cinquième partie de la construction du [robot quirmdessine]({{site.prefix}}/blog/2017/12/27/le-robot-qui-dessine-v2-1).
 
 L'objectif dans cette étape est d'assembler la dernière partie, la brique de contrôle.
 
