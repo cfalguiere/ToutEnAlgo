@@ -18,7 +18,7 @@ Les détails du fonctionnement de cette pièce sont expliqués dans la [premièr
 
 Il faut assembler un petit moteur, plusieurs engrenages pour changer l'axe de rotation et des pièces pour assembler le tout. 
 
-![Vision explosée]({{page.assetsFolder}}/1-exploded.png)
+![Vision explosée]({{page.assetsFolder}}/1-exploded-small.png)
 
 Les pièces nécessaires
  
@@ -26,21 +26,23 @@ Les pièces nécessaires
 
 Monter le cadre et les deux engrenages.
 
-![1]({{page.assetsFolder}}/1-1-steps.png)
+![1]({{page.assetsFolder}}/1-1-steps-small.png)
 
 Ajouter les supports sur le cadre.
 
-![3]({{page.assetsFolder}}/1-3-steps.png)
+![3]({{page.assetsFolder}}/1-3-steps-small.png)
 
 Ajouter la barre verticale des bras du porte-stylo. La partie basse tourne avec l'axe. En haut, la pièce de connexion grise est sans friction. La même en noir ne permetra pas au bras de bouger.
 
-![5]({{page.assetsFolder}}/1-5-steps.png)
+![5]({{page.assetsFolder}}/1-5-steps-small.png)
 
 Placer les supports sur le moteur
+
+![2]({{page.assetsFolder}}/1-2-steps-small.png)
 
 ![7]({{page.assetsFolder}}/1-7-steps.png)
 
 Connecter le petit moteur aux engrenages 
 
-![9]({{page.assetsFolder}}/1-9-steps.png)
+![9]({{page.assetsFolder}}/1-9-steps-small.png)
 
