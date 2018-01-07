@@ -7,4 +7,4 @@ published: true
 assetsFolder: /ToutEnAlgo/assets/workshop
 ---
 
-![{{assetsFolder}}](mindstorms/index.md)
+![{{assetsFolder}}/logo-mindstorms-200x200.png](mindstorms/index.md)
