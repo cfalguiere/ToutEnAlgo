@@ -1,5 +1,5 @@
 ---
-layout: page-wprkshop
+layout: wprkshop
 title: Atelier Mindstorms
 date: '2017-12-27 09:30:00 CET'
 category: Mindstorms
