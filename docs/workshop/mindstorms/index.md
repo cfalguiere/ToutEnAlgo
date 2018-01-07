@@ -84,7 +84,7 @@ Pour la programmation par blocs, il faut installer le [logiciel Mindstorms](http
 ### Les tutoriaux et les idées d'atelier
 
 Le tutorial fourni avec le logiciel est assez rudimentaire.
-- [Tutorial Lego© officiel](https://www.lego.com/fr-fr/mindstorms/learn-to-program)
+- [Tutorial Lego® officiel](https://www.lego.com/fr-fr/mindstorms/learn-to-program)
 
 Des associations ou des organismes ont fait des tutoriaux plus complets en français :
 - [Tutorial EduScol](http://eduscol.education.fr/sti/ressources_techniques/tutoriel-brique-legor-mindstormsr-ev3#description)
