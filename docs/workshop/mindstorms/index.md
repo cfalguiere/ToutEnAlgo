@@ -94,5 +94,5 @@ Vous trouverez plus de ressources en anglais :
 - [Tutorial STEM Centric](http://www.stemcentric.com/ev3-tutorial/)
 - [Tutorial Lego Engineering](http://www.legoengineering.com/ev3-tutorials-by-students-for-students/)
 - [Tutorial FLL Cast](https://www.fllcasts.com/search/ev3+programming)
-- [Tutorial Carnegy Mellon Robotics Academy (PDF]](http://education.rec.ri.cmu.edu/wp-content/uploads/2015/03/EV3-teachers-guideWEB.pdf)
+- [Tutorial Carnegy Mellon Robotics Academy (PDF)](http://education.rec.ri.cmu.edu/wp-content/uploads/2015/03/EV3-teachers-guideWEB.pdf)
 
