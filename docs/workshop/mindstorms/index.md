@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-wprkshop
 title: Atelier Mindstorms
 date: '2017-12-27 09:30:00 CET'
 category: Mindstorms
@@ -48,7 +48,7 @@ Le kit est fourni avec des modèles complètement documenté. Ces modèles sont 
 
 Pour faire les ateliers de 1 ou 2 heures, on utilise des modèles plus simples et modulables. 
 
-Le but est d'apprendre à programmer et concevoir des mécanismes, pas de monter des legos. e viens donc généralement avec des robots déjà montés.
+Le but est d'apprendre à programmer et concevoir des mécanismes, pas de monter des legos.  Il est utile d'avoir  des robots déjà montés car le montage d'une base simple prend environ 30 mn. 
 
 Le modèle le plus simple pour commencer un projet est le rover. Il est simple et rapide à monter conçu pour intégrer facilement les divers capteurs.
 
@@ -71,12 +71,12 @@ Pour la programmation par blocs, il faut installer le [logiciel Mindstorms](http
 
 ---
 
-### Quelques ressources utiles
+### Les tutorials et les idées d'atelier
 
 Le tutorial fourni avec le logiciel est assez rudimentaire.
 - [Tutorial Lego© officiel](https://www.lego.com/fr-fr/mindstorms/learn-to-program)
 
-Des associations ou des organismes ont fait des tutoriaux plus complets en français
+Des associations ou des organismes ont fait des tutorials plus complets en français
 - [Tutorial EduScol](http://eduscol.education.fr/sti/ressources_techniques/tutoriel-brique-legor-mindstormsr-ev3#description)
 - [Tutorial Generation Robot (PDF)](https://www.generationrobots.com/media/ev3_user_guide.pdf)
 
@@ -85,8 +85,6 @@ Vous trouverez plus de ressources en anglais
 - [Tutorial Lego Engineering](http://www.legoengineering.com/ev3-tutorials-by-students-for-students/)
 - [Tutorial FLL Cast](https://www.fllcasts.com/search/ev3+programming)
 - [Tutorial Carnegy Mellon Robotics Academy (PDF]](http://education.rec.ri.cmu.edu/wp-content/uploads/2015/03/EV3-teachers-guideWEB.pdf)
-
-Par ailleurs, tous les contenus de ce site peut être utilisé dans le cadre d'ateliers scolaires ou périscolaires.
 
 ---
 
