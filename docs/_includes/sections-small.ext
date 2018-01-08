@@ -1,8 +1,8 @@
 <div class="categories-title">
 
   <div style="margin-left:5px;float:left;">
-    <svg height="150" width="50">
-      <polygon points="0,0 0,50 50,150 150,25 25,0" style="fill:#f19f00" />
+    <svg height="50" width="150">
+      <polygon points="0,0 0,50 150,50 150,25 25,0" style="fill:#f19f00" />
       <a xlink:href="{{ site.url }}/ToutEnAlgo" target="_blank">
         <text fill="black" font-family="Verdana" font-size="14">
             <tspan x="20" y="30">Le</tspan>
@@ -14,8 +14,8 @@
   </div>
 
   <div style="margin-left:5px;float:left;">
-    <svg height="150" width="150">
-      <polygon points="0,0 0,50 50,150 150,25 25,0" style="fill:#d22501" />
+    <svg height="50" width="150">
+      <polygon points="0,0 0,50 150,50 150,25 25,0" style="fill:#d22501" />
       <a xlink:href="{{ site.url }}/ToutEnAlgo/workshop" target="_blank">
         <text fill="black" font-family="Verdana" font-size="14">
             <tspan x="20" y="30">Les</tspan>
@@ -27,8 +27,8 @@
   </div>
 
   <div style="margin-left:5px;float:left;">
-    <svg height="150" width="150">
-      <polygon points="0,0 0,50 50,150 150,25 25,0" style="fill:#91a61d" />
+    <svg height="50" width="150">
+      <polygon points="0,0 0,50 150,50 150,25 25,0" style="fill:#91a61d" />
       <a xlink:href="{{ site.url }}/ToutEnAlgo" target="_blank">
         <text fill="black" font-family="Verdana" font-size="14">
             <tspan x="20" y="30">Les</tspan>
