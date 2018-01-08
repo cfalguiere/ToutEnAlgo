@@ -7,7 +7,7 @@ published: true
 assetsFolder: /ToutEnAlgo/assets/workshop
 ---
 
-<div style="width:150;height:75;border-color:white;background-color:#dddddd;">
+<div style="width:150;height:75;background-color:#cccccc;">
   <div style="width:75;float:left;">
     <a alt="mindstorms" href="mindstorms"><img src="{{page.assetsFolder}}/logo-mindstorms-150x150.png" /></a>
   </div>
