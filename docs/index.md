@@ -1,3 +1,11 @@
+---
+layout: landpage
+title: Landpage
+date: '2017-12-29 11:30:00 CET'
+category: Landpage
+published: true
+assetsFolder: /ToutEnAlgo/assets/
+---
 
 <h1>
 A la Une
