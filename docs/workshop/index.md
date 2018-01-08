@@ -7,4 +7,4 @@ published: true
 assetsFolder: /ToutEnAlgo/assets/workshop
 ---
 
-  <a alt="mindstorms" href="mindstorms"><img src="{{page.assetsFolder}}/logo-mindstorms-200x200.png" /></a>
+  <a alt="mindstorms" href="mindstorms"><img src="{{page.assetsFolder}}/logo-mindstorms-150x150.png" /></a>

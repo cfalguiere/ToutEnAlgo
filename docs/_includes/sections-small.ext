@@ -1,3 +1,8 @@
+<!--
+parameters:
+selected
+-->
+
 <div class="categories-title">
   <div style="clear: both;">
   </div>
@@ -45,6 +50,11 @@
   </div>
   -->
 </div>
+
+<div style="width: 100%; height: 5px;background-color:{{ include.selected }};" >
+
+</div>
+
 <hr>
 
 
