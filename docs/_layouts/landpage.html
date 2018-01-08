@@ -37,16 +37,10 @@ layout: default
 
   <div class="date">
     <p>
-      <div style="float: left;">
-        Written on {{ page.date | date: "%B %e, %Y" }}
-      </div>
-      &nbsp;
-      <div style="float: right;">
         Tags:
-        {% for tag in page.tags %}
+        {% for tag in site.tags %}
           {{ tag }}
         {% endfor %}
-      </div>
     </p>
   </div>
 </article>
