@@ -1,5 +1,5 @@
 ---
-layout: workshop
+layout: section
 title: Ateliers
 date: '2017-12-27 10:30:00 CET'
 tags: ['Atelier']
