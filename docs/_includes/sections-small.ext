@@ -7,7 +7,7 @@ selected
   <div style="clear: both;">
   </div>
 
-  <div style="margin-left:5px;float:left;">
+  <div style="float:left;">
     <svg height="50" width="150">
       <polygon points="0,0 0,50 150,50 150,25 25,0" style="fill:#f19f00" />
       <a xlink:href="{{ site.url }}/ToutEnAlgo" target="_blank">

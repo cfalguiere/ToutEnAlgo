@@ -7,4 +7,15 @@ published: true
 assetsFolder: /ToutEnAlgo/assets/workshop
 ---
 
-  <a alt="mindstorms" href="mindstorms"><img src="{{page.assetsFolder}}/logo-mindstorms-150x150.png" /></a>
+<div style="width:45%;border-color:white;">
+  <div style="float:left;">
+    <a alt="mindstorms" href="mindstorms"><img src="{{page.assetsFolder}}/logo-mindstorms-150x150.png" /></a>
+  </div>
+
+  <div style="margin-left:5px;float:left;">
+  <p style="color:white;">
+    Mindstorms permet d'apprendre à programmer en construisant des robots
+  </p>
+  </div>
+
+</div>
