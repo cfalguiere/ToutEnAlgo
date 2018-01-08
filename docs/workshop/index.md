@@ -8,7 +8,7 @@ assetsFolder: /ToutEnAlgo/assets/workshop
 ---
 
 {% for workshop in site.data.workshops %}
-<div style="width:150px;height:275;margin-righ:5px;float:left;background-color:#dddddd;">
+<div style="width:150px;height:275;margin-right:5px;float:left;background-color:#dddddd;">
   <div style="width:150px;height:150px;">
     <a alt="{{ workshop.title }}" href="{{ workshop.url }}"><img src="{{page.assetsFolder}}/{{ workshop.logo }}" /></a>
   </div>
