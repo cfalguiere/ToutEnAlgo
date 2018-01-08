@@ -1,0 +1,5 @@
+- name: mindstorm
+  title: Mindstorms
+  logo: logo-mindstorms-150x150.png
+  description: Mindstorms permet d'apprendre à programmer en construisant des robots en Lego
+  url: mindstorms
