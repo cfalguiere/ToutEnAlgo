@@ -22,7 +22,7 @@ On va donc commencer par le poster de la mission "Suivi de ligne" avec la techni
 
 Les détails de la mission peuvent varier. Par exemple, le suivi de ligne a été utilisé dans le cadre d'un programme plus général de construction d'un rover pour explorer Mars. La ligne a suivre est une marque a sol détectée depuis l'espace.
 
-Une autre idée est un véhicule qui suit la route en se basant sur les marquages au sol.
+Une autre idée de mise en oeuvre est la réalisation d'un véhicule qui suit la route en se basant sur les marquages au sol.
 
 [Télécharger le poster]({{page.assetsFolder}}/two-steps-line-follower.pdf)
 
