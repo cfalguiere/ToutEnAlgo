@@ -14,13 +14,15 @@ En atelier, il est souvent nécessaire d'utiliser une technique particulière, c
 
 Plutôt qu'un long discours, ces aides sont fournies sous la forme de missions. Chaque mission est présentée sous la forme d'un poster d'une page facile à imprimer. Le poster présente le but de la mission, le principe utilisé, les bases du montage à réaliser et un exemple simple de programme.
 
-Les détails de la mission peuvent varier. Par exemple, le suivi de ligne a été utilisé dans le cadre d'un programme plus général de construction d'un rover pour explorer Mars.
-
 On va donc commencer par le poster de la mission "Suivi de ligne" avec la technique la plus simple à programmer, le two-steps-line-follower.
 
 
-<embed src="{{page.assetsFolder}}/two-steps-line-follower.pdf" width="800px" height="600px" />
+<embed src="{{page.assetsFolder}}/two-steps-line-follower.pdf" width="600px" height="480px" />
 
+
+Les détails de la mission peuvent varier. Par exemple, le suivi de ligne a été utilisé dans le cadre d'un programme plus général de construction d'un rover pour explorer Mars. La ligne a suivre est une marque a sol détectée depuis l'espace.
+
+Une autre idée est un véhicule qui suit la route en se basant sur les marquages au sol.
 
 [Télécharger le poster]({{page.assetsFolder}}/two-steps-line-follower.pdf)
 
