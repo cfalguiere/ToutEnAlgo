@@ -98,6 +98,11 @@ Vous trouverez plus de ressources en anglais :
 
 ---
 
+### Les sites utiles
+
+- [Rebrickable, un site de partage de modèles](https://rebrickable.com/)
+
+
 ### Tous les articles du site sur le même thème
 
 <ul>
