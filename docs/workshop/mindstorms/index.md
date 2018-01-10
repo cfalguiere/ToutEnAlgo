@@ -72,6 +72,8 @@ Les questions pratiques
 - un kit Mindstorms et un ordinateur par groupe, des rallonges
 - un espace assez grand avec une table par groupe et beaucoup d'espace au sol dans la salle ou proche pour les déplacements des robots
 - n'oubliez pas les questions d'assurance propres à tous les ateliers en dehors du contexte scolaire
+- prévoyez des piles. Chaque robot utilise 6 piles 1,5V AA/R6 (les piles normales) et la télécommande 2 piles 1,5V AAA/R03 (les piles plus petites). Les piles de robots durent environ 2 ateliers. Les piles des télécommandes durent plusieurs ateliers.
+
 
 ---
 
