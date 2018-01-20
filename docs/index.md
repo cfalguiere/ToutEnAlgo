@@ -23,5 +23,7 @@ A la Une
 
   {% for post in site.posts %}
       <img style="float:left;" src="{{ page.assetsFolder }}/images/blog/thumbmail-empty-150x150.png" href="{{ post.url | relative_url  }}" />
-      <a href="{{ post.url | relative_url  }}">{{ post.title }}</a>
+      <div style="clear: both;">
+          <a href="{{ post.url | relative_url  }}">{{ post.title }}</a>
+      </div>
   {% endfor %}
