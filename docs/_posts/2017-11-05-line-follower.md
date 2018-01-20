@@ -6,7 +6,7 @@ category: Blog
 tags: ['Mindstorms', 'Poster', 'Mission' ]
 published: true
 assetsFolder: /ToutEnAlgo/assets/workshop/mindstorms/mission/two-steps-line-follower
-thumbnail: {{page.assetsFolder}}/thumbmail-2stepslf-150x150.png
+thumbnail: /ToutEnAlgo/assets/workshop/mindstorms/mission/two-steps-line-follower/thumbmail-2stepslf-150x150.png
 ---
 
 Avec la rentrée commence une nouvelle série, les missions.
