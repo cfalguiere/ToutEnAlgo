@@ -6,11 +6,12 @@ category: Blog
 tags: ['Mindstorms', 'Demo']
 published: true
 assetsFolder: /ToutEnAlgo/assets/le-robot-qui-dessine-v2
+thumbnail: /ToutEnAlgo/assets/le-robot-qui-dessine-v2/thumbmail-dessinatorv2-150x150.png
 ---
 
 ### Les principes de fonctionnement
 
-Le robot qui dessine est construit sur une base de rover. 
+Le robot qui dessine est construit sur une base de rover.
 
 ![Rover Monté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-all-small.png)
 
@@ -21,7 +22,7 @@ Un petit moteur annexe est placé dans le rover pour poser/lever le stylo.
 
 Ce moteur va actionner un bras mobile à l'avant. Lorsque le bras est en position basse le robot peut écrire. Quand il est en position haute le stylo ne touche plus la feuille.
 
-Dans la conception il est important que le stylo se trouve entre les roues avant. De cette manière lorsque le robot pivote, le stylo peut dessiner un angle. 
+Dans la conception il est important que le stylo se trouve entre les roues avant. De cette manière lorsque le robot pivote, le stylo peut dessiner un angle.
 
 ![Porte-stylo Monté]({{page.assetsFolder}}/0-ensemble/dessinateurv2-all-avec-porte-stylo-small.png)
 
@@ -43,9 +44,9 @@ Après plusieurs essais ratés nous avons constaté que le robot ne doit pas avo
 
 ### Le plan de montage
 
-Le rover va être construit en quatre parties : 
-- [le moteur du porte-stylo]({{site.prefix}}/blog/2017/12/28/le-robot-qui-dessine-v2-2), 
-- [le porte-stylo]({{site.prefix}}/blog/2017/12/28/le-robot-qui-dessine-v2-3), 
+Le rover va être construit en quatre parties :
+- [le moteur du porte-stylo]({{site.prefix}}/blog/2017/12/28/le-robot-qui-dessine-v2-2),
+- [le porte-stylo]({{site.prefix}}/blog/2017/12/28/le-robot-qui-dessine-v2-3),
 - [le chassis]({{site.prefix}}/blog/2017/12/29/le-robot-qui-dessine-v2-4),
 - [la brique de contrôle]({{site.prefix}}/blog/2017/12/29/le-robot-qui-dessine-v2-5).
 
