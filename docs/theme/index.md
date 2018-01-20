@@ -7,7 +7,7 @@ published: true
 assetsFolder: /ToutEnAlgo/assets/theme
 ---
 
-
+<!--
 <p>
   <ul class="tags">
     {% for tag in site.tags | sort %}
@@ -19,11 +19,14 @@ assetsFolder: /ToutEnAlgo/assets/theme
     {% endfor %}
 </ul>
 </p>
+-->
 
 <div class="tags-expo">
   <div class="tags-expo-list">
     {% for tag in site.tags %}
-    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+      {% assign postsCount = tag | last | size %}
+      <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }} ({{postsCount}})</a>
+      {% unless forloop.last %},{% endunless %}
     {% endfor %}
   </div>
   <hr/>
