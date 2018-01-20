@@ -26,5 +26,7 @@ A la Une
     <div style="background-color:white;">
       <img style="float:left;" src="{{ page.assetsFolder }}/images/blog/thumbmail-empty-150x150.png" href="{{ post.url | relative_url  }}" />
       <a href="{{ post.url | relative_url  }}">{{ post.title }}</a>
-    <div>
+    </div>
+    <div style="clear: both;">
+    </div>
   {% endfor %}
