@@ -6,6 +6,7 @@ category: Blog
 tags: ['Mindstorms', 'Demo']
 published: true
 assetsFolder: /ToutEnAlgo/assets/le-robot-qui-dessine-v2/3-brique
+thumbnail: /ToutEnAlgo/assets/le-robot-qui-dessine-v2/thumbmail-dessinatorv2-150x150.png
 ---
 
 Ce billet est la cinquième partie de la construction du [robot quirmdessine]({{site.prefix}}/blog/2017/12/27/le-robot-qui-dessine-v2-1).
@@ -15,10 +16,10 @@ L'objectif dans cette étape est d'assembler la dernière partie, la brique de c
 ![Montage terminé]({{page.assetsFolder}}/3-completed-small.png)
 
 Les pièces nécessaires
- 
+
 ![BOM]({{page.assetsFolder}}/BOM-brique.png)
 
-Il faut assembler la brique de contrôle et les éléments qui permettront de la fixer au chassis. 
+Il faut assembler la brique de contrôle et les éléments qui permettront de la fixer au chassis.
 
 Montez les supports arrière
 
@@ -33,4 +34,4 @@ Assemblez les supports avant
 Vous pouvez maintenant assembler tous les éléments du support de la brique
 
 ![Vision explosée]({{page.assetsFolder}}/3-all-steps.png)
-
+
