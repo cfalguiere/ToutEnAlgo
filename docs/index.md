@@ -11,7 +11,6 @@ assetsFolder: /ToutEnAlgo/assets/
 A la Une
 </h1>
 
-<!--
 <ul>
   {% for post in site.posts %}
     <li>
@@ -20,7 +19,7 @@ A la Une
   {% endfor %}
 </ul>
 
--->
+
 
   {% for post in site.posts %}
     <div style="background-color:white;">
