@@ -47,7 +47,8 @@ layout: default
       <div style="float: right;">
         Tags:
         {% for tag in page.tags %}
-          {{ tag | first }}
+          {{ tag }}
+          {% unless forloop.last %},{% endunless %}
         {% endfor %}
       </div>
     </p>
