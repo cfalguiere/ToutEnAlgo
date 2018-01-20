@@ -20,7 +20,7 @@ A la Une
       <td width="150px">
           <a href="{{ post.url | relative_url  }}" ><img style="float:left;" src="{{ post.thumbnail | default: page.defaultThumbnail }}"> </a>
       </td>
-      <td style="background-color:#ffffdd;padding:15px 0px 3px 0px;">
+      <td style="background-color:#ddddfff;padding-top:15px;padding-bottom:3px;">
         <center>
           {% for tag in post.tags %}
             <span style="background-color:#dd6600;font-style:italic;">&nbsp;&nbsp;{{ tag }}&nbsp;&nbsp;</span>&nbsp;&nbsp;
