@@ -34,16 +34,4 @@ layout: default
    -->
   </div>
 
-
-  <div class="date">
-    <p>
-      <ul class="tags">
-        {% for tag in site.tags %}
-          {% assign t = tag | first %}
-          {% assign posts = tag | last %}
-          <li>{{t | downcase | replace:" ","-" }} : {{ posts | size }} posts</li>
-        {% endfor %}
-      </ul>
-    </p>
-  </div>
 </article>
