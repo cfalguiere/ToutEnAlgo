@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include sections-small.ext selected="##f19f00" %}
+{% include sections-small.ext selected="#f19f00" %}
 
 <article class="post">
   <h2>{{ page.title }}</h2>
@@ -47,7 +47,7 @@ layout: default
       <div style="float: right;">
         Tags:
         {% for tag in page.tags %}
-          {{ tag }}
+          {{ tag | first }} {% unless forloop.last %},{% endunless %}
         {% endfor %}
       </div>
     </p>
