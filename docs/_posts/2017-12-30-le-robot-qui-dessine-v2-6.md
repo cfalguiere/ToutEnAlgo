@@ -7,7 +7,7 @@ tags: ['Mindstorms', 'Demo']
 published: true
 assetsFolder: /ToutEnAlgo/assets/le-robot-qui-dessine-v2/0-ensemble
 assetsFolderProgramme: /ToutEnAlgo/assets/le-robot-qui-dessine-v2/5-programme
-
+thumbnail: /ToutEnAlgo/assets/le-robot-qui-dessine-v2/thumbmail-dessinatorv2-150x150.png
 ---
 
 Ce billet est la dernière partie de la construction du [robot qui dessine]({{site.prefix}}/blog/2017/12/27/le-robot-qui-dessine-v2-1).
@@ -44,32 +44,32 @@ Le projet exemple peut être téléchargé [là]({{page.assetsFolder}}/dessinato
 
 ### Poser et lever le stylo
 
-On peut tout d'abord tester le fonctionnement du stylo avec le programme suivant. Ce programme lève le stylo puis le repose. 
+On peut tout d'abord tester le fonctionnement du stylo avec le programme suivant. Ce programme lève le stylo puis le repose.
 
 Avant de lancer, il faut positionner la pointe du stylo au niveau de la feuille
 
 ![stylo]({{page.assetsFolderProgramme}}/stylo.png)
 
-> Lorsque le moteur tourne en marche arrière (-30) il soulève le stylo. 
+> Lorsque le moteur tourne en marche arrière (-30) il soulève le stylo.
 > Lorsque le moteur tourne en marche avant (30) il abaisse le stylo.
 
-> L'angle de rotation du moteur doit rester petit (45 par exemple) car il suffit de déplacer le stylo sur moins de 1cm. 
+> L'angle de rotation du moteur doit rester petit (45 par exemple) car il suffit de déplacer le stylo sur moins de 1cm.
 
 
 
 ### Tracer un cercle
 
-La figure la plus simple à tracer est le cercle. 
+La figure la plus simple à tracer est le cercle.
 
 Avant de lancer, il faut positionner la pointe du stylo au niveau de la feuille
 
 ![cercle]({{page.assetsFolderProgramme}}/cercle-small.png)
 
-> Si on ne fait tourner qu'une roue, le robot va tourner autour de l'autre roue. Ici, on fait avancer la roue commandée par B, la roue gauche. La roue droite reste immobile et le robot va pivoter sur cette roue. Si on fait ça suffisamment longtemps, le robot trace un cercle. 
+> Si on ne fait tourner qu'une roue, le robot va tourner autour de l'autre roue. Ici, on fait avancer la roue commandée par B, la roue gauche. La roue droite reste immobile et le robot va pivoter sur cette roue. Si on fait ça suffisamment longtemps, le robot trace un cercle.
 
 Aller plus loin :
 - comment peut on calculer le rayon de ce cerclsmae ?
-- comment calculer le nombre de tours de roues nécessaires pour faire le cercle complet 
+- comment calculer le nombre de tours de roues nécessaires pour faire le cercle complet
 - comment peut on faire un cercle plus large ?
 
 indices:
@@ -78,12 +78,12 @@ indices:
 
 ### Tracer un carré
 
-Tracer un carré nécessaire de faire 4 lignes droites et pivoter pour tourner à chaque coin. On va lever le stylo dans chaque coin pour éviter les gribouillages. 
-Attention, ce programme démarre (et fini) stylo levé. Si nécessaire, utilisez une partie du programme "stylo" pour  placer le stylo à la bonne hauteur. 
+Tracer un carré nécessaire de faire 4 lignes droites et pivoter pour tourner à chaque coin. On va lever le stylo dans chaque coin pour éviter les gribouillages.
+Attention, ce programme démarre (et fini) stylo levé. Si nécessaire, utilisez une partie du programme "stylo" pour  placer le stylo à la bonne hauteur.
 
 ![carré]({{page.assetsFolderProgramme}}/carre.png)
 
-> Pour faire pivoter le robot sur place, on faire tourner une roue en marche avant pendant que l'autre tourne en marche arrière. De cette manière, le robot va pivoter autour d'un point qui est entre les deux roues au niveau du stylo. 
+> Pour faire pivoter le robot sur place, on faire tourner une roue en marche avant pendant que l'autre tourne en marche arrière. De cette manière, le robot va pivoter autour d'un point qui est entre les deux roues au niveau du stylo.
 
 > L'action "poser le stylo, faire une ligne droite, lever le stylo et pivoter" est répétée 4 fois (une fois par arrête du carré). On utilise un bloc boucle pour indiquer cette répétition. Le nombre de répétitions est indiqué à droite de la boucle, ici c'est 4.
 
