@@ -29,7 +29,7 @@
   <div style="margin-left:5px;float:left;">
     <svg height="150" width="150">
       <polygon points="0,0 0,150 150,150 150,50 100,0" style="fill:#91a61d" />
-      <a xlink:href="{{ site.url }}/ToutEnAlgo" target="_blank">
+      <a xlink:href="{{ site.url }}/ToutEnAlgo/theme" target="_blank">
         <text fill="black" font-family="Verdana" font-size="28">
             <tspan x="20" y="65">Les</tspan>
             <tspan x="20" y="100">Thèmes</tspan>

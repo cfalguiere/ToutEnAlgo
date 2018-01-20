@@ -34,7 +34,7 @@ selected
   <div style="margin-left:5px;float:left;">
     <svg height="50" width="150">
       <polygon points="0,0 0,50 150,50 150,25 25,0" style="fill:#91a61d" />
-      <a xlink:href="{{ site.url }}/ToutEnAlgo" target="_blank">
+      <a xlink:href="{{ site.url }}/ToutEnAlgo/theme" target="_blank">
         <text fill="black" font-family="Verdana" font-size="16">
             <tspan x="20" y="40">Les Thèmes</tspan>
         </text>
