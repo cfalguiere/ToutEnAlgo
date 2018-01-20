@@ -22,7 +22,7 @@ A la Une
       <td>
         <center>
           {% for tag in post.tags %}
-            <span style="background-color:#ee6600;font-style:italic;">&nbsp;&nbsp;{{ tag }}&nbsp;&nbsp;</span>&nbsp;.&nbsp;
+            <span style="background-color:#91a61d;font-style:italic;">&nbsp;&nbsp;{{ tag }}&nbsp;&nbsp;</span>&nbsp;&nbsp;
           {% endfor %}
           <br>
           <a href="{{ post.url | relative_url  }}">{{ post.title }}</a>
