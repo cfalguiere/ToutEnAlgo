@@ -19,7 +19,7 @@ A la Une
       <td>
           <a href="{{ post.url | relative_url  }}" ><img style="float:left;" src="{{ page.assetsFolder }}/images/blog/thumbmail-empty-150x150.png"> </a>
       </td>
-      <td style="background-color:white;">
+      <td>
           {% for tag in post.tags %}
             <span style="background-color:#d22501;font-style:italic;">&nbsp;{{ tag }}&nbsp;</span>&nbsp;
           {% endfor %}
