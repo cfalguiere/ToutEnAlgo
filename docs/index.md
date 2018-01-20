@@ -20,10 +20,16 @@ A la Une
 </ul>
 
 
-
+<table>
   {% for post in site.posts %}
-      <img style="float:left;" src="{{ page.assetsFolder }}/images/blog/thumbmail-empty-150x150.png" href="{{ post.url | relative_url  }}" />
-      <div style="clear: both;">
+    <tr>
+      <td>
+          <img style="float:left;" src="{{ page.assetsFolder }}/images/blog/thumbmail-empty-150x150.png" href="{{ post.url | relative_url  }}" />
+      </td>
+      <td>
           <a href="{{ post.url | relative_url  }}">{{ post.title }}</a>
-      </div>
+      </td>
+    </tr>
   {% endfor %}
+
+</table>
