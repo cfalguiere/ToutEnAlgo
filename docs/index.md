@@ -20,7 +20,7 @@ A la Une
           <img style="float:left;" src="{{ page.assetsFolder }}/images/blog/thumbmail-empty-150x150.png" href="{{ post.url | relative_url  }}" />
       </td>
       <td>
-          {% for tag in page.tags %}
+          {% for tag in post.tags %}
             <span style="background-color:#d22501;">{{ tag }}</span>&nbsp;
           {% endfor %}
           <br>
