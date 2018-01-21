@@ -46,18 +46,18 @@ defaultThumbnail: /ToutEnAlgo/assets/images/blog/thumbmail-empty-150x150.png
     </p>
   </div>
 
-  <div class="entry">
+  <div class="tags-expo-section">
     <p>
       <h4>
         D'autres articles sur les mêmes sujets
       </h4>
-      <lu>
+      <ul class="tags-expo-posts">
       {% for tag in page.tags %}
         <li>
           <a href="/ToutEnAlgo/theme/#{{ tag }}" class="post-tag">Articles sur {{ tag | slugify  }}</a>
         </li>
       {% endfor %}
-      </lu>
+      </ul>
     </p>
   </div>
 
