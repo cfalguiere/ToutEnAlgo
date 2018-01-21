@@ -24,7 +24,7 @@ Le poster présente
 On va donc commencer par le poster de la mission "Suivi de ligne" avec la technique la plus simple à programmer, le two-steps-line-follower.
 
 
-<img src="{{page.assetsFolder}}/two-steps-line-follower.png" width="650px" height="480px" />
+<img src="{{page.assetsFolder}}/two-steps-line-follower.png" />
 <!-- 1024 × 768 -->
 
 <br>
