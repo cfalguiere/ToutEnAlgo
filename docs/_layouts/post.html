@@ -43,23 +43,20 @@ defaultThumbnail: /ToutEnAlgo/assets/images/blog/thumbmail-empty-150x150.png
         <a class="next" href="{{page.next.url | relative_url }}">Article {{page.next.title}} &#9658;</a>
       {% endif %}
       </div>
-      <!-- </div> -->
     </p>
-    <!--
-      {% if page.next.url %}
-        <a href="{{ page.next.url | relative_url  }}">Post Suivant: {{ page.next.title }}</a>
-      {% endif %}
-    </p>
-   -->
   </div>
 
   <div class="entry">
-
-    <lu>
-    {% for tag in page.tags %}
-      <li><a href="/ToutEnAlgo/theme/#{{ tag }}" class="post-tag">Articles sur {{ tag }}</a></li>
-    {% endfor %}
-    </lu>
+    <p>
+    <h3>
+      D'autres articles sur les mêmes sujets
+    </h3>
+      <lu>
+      {% for tag in page.tags %}
+        <li><a href="/ToutEnAlgo/theme/#{{ tag }}" class="post-tag">Articles sur {{ tag | slugify  }}</a></li>
+      {% endfor %}
+      </lu>
+    </p>
   </div>
 
 </article>
