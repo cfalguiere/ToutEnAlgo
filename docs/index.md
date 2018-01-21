@@ -27,7 +27,8 @@ A la Une
           {% endfor %}
           <br>
           <a href="{{ post.url | relative_url  }}">{{ post.title }}</a>
-          <small class="post-date">{{ post.date | date_to_string }}</small>
+          <br>
+          <small class="post-date" style="color:grey;">{{ post.date | date_to_string }}</small>
         </center>
       </td>
     </tr>
