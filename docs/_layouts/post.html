@@ -5,6 +5,8 @@ layout: default
 {% include sections-small.ext selected="#f19f00" %}
 
 <article class="post">
+  <img style="float:left;" src="{{ post.thumbnail | default: page.defaultThumbnail }}">
+
   <h2>{{ page.title }}</h2>
   <div class="date">
     <p>
