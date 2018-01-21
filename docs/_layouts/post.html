@@ -48,12 +48,14 @@ defaultThumbnail: /ToutEnAlgo/assets/images/blog/thumbmail-empty-150x150.png
 
   <div class="entry">
     <p>
-    <h3>
-      D'autres articles sur les mêmes sujets
-    </h3>
+      <h4>
+        D'autres articles sur les mêmes sujets
+      </h4>
       <lu>
       {% for tag in page.tags %}
-        <li><a href="/ToutEnAlgo/theme/#{{ tag }}" class="post-tag">Articles sur {{ tag | slugify  }}</a></li>
+        <li>
+          <a href="/ToutEnAlgo/theme/#{{ tag }}" class="post-tag">Articles sur {{ tag | slugify  }}</a>
+        </li>
       {% endfor %}
       </lu>
     </p>
