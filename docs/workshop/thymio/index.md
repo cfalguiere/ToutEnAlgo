@@ -91,18 +91,3 @@ Les documentations des différents types de programmes se trouvent sur le site d
 - [L'introduction à Aseba](https://www.thymio.org/fr:start)
 
 ---
-
-### Les tutoriaux et les idées d'atelier
-
-Vous pourrez trouver des idées d'atelier sur YouTube.
-
-
-### Tous les articles du site sur le même thème
-
-<ul>
-  {% for post in site.tags.Thymio %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>

@@ -12,6 +12,14 @@ assetsFolder: /ToutEnAlgo/assets/workshop/mindstorms
 
 ---
 
+### La documentation
+
+---
+
+### Les posters du site
+
+---
+
 ### Les tutoriaux
 
 Le tutorial fourni avec le logiciel est assez rudimentaire.
@@ -29,6 +37,4 @@ Vous trouverez plus de ressources en anglais :
 
 ---
 
-### Les posters du site
-
-TODO
+### Les idées de réalisation
