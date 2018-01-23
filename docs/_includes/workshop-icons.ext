@@ -1,0 +1,19 @@
+<!--
+parameters:
+selected
+-->
+
+  <div class="entry" style="margin-top:15px;">
+  {% for tab in site.data.workshoptabs %}
+    {% if include.selected == "tab.name"  %}
+      {{ assign active = "on" }}
+    {% else %}
+      {{ assign active = "off" }}
+    {% endif %}
+
+    <img src="/ToutEnAlgo/assets/images/workshop/workshop-icons-{{ tab.slug }}-{{active}}.png" style="width:150px;height:150px;" >
+  {% endfor %}
+  </div>
+
+  <div style="clear: both;">
+  </div>

@@ -8,6 +8,9 @@ published: true
 assetsFolder: /ToutEnAlgo/assets/workshop/mindstorms
 ---
 
+{% include workshop-icons.ext selected="decouvrir" %}
+
+
 >    Robotique
 
 >    à partir de 9 ans
