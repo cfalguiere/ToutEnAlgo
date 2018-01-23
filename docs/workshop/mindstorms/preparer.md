@@ -8,7 +8,7 @@ published: true
 assetsFolder: /ToutEnAlgo/assets/workshop/mindstorms
 ---
 
-{% include workshop-icons.ext selected="preparer" workshop="Mindstorms"%}
+{% include workshop-icons.ext selected="organiser" workshop="Mindstorms"%}
 
 
 ### Comment préparer un atelier ?
