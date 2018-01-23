@@ -29,9 +29,13 @@ assetsFolder: /ToutEnAlgo/assets/images/workshop
         D'autres articles sur le même sujet
       </h4>
       <ul class="tags-expo-posts">
-        {% for item in site.tags | where:"category",page.Category %}
-          {% if item.url %}
-              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        {% for tag in site.tags %}
+          {% if tag == page.Category %}
+            {% for item in tag[1] %}
+              {% if item.url %}
+                  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+              {% endif %}
+            {% endfor %}
           {% endif %}
         {% endfor %}
       </ul>
