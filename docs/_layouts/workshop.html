@@ -31,7 +31,7 @@ assetsFolder: /ToutEnAlgo/assets/images/workshop
       <ul class="tags-expo-posts">
         {% for post in site.tags.Mindstorms %}
           {% if post.url %}
-              <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+              <li><a href="{{ post.url }}">{{ post.title }}</a></li>
           {% endif %}
         {% endfor %}
       </ul>
