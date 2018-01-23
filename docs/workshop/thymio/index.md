@@ -8,6 +8,10 @@ published: true
 assetsFolder: /ToutEnAlgo/assets/workshop/thymio
 ---
 
+{% include workshop-icons.ext selected="decouvrir" workshop="Thymio" %}
+
+---
+
 >    Robotique
 
 >    à partir de 4 ans

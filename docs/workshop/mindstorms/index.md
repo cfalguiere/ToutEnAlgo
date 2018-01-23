@@ -8,7 +8,7 @@ published: true
 assetsFolder: /ToutEnAlgo/assets/workshop/mindstorms
 ---
 
-{% include workshop-icons.ext selected="decouvrir" %}
+{% include workshop-icons.ext selected="decouvrir" workshop="Mindstorms" %}
 
 
 >    Robotique

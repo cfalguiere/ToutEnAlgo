@@ -8,7 +8,7 @@ published: true
 assetsFolder: /ToutEnAlgo/assets/workshop/thymio
 ---
 
-{% include workshop-icons.ext selected="organiser" workshop="Thymio"%}
+{% include workshop-icons.ext selected="organiser" workshop="Thymio" %}
 
 ---
 
