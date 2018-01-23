@@ -1,6 +1,7 @@
 <!--
 parameters:
 selected
+workshop
 -->
 
   <div class="entry" style="margin-top:15px;margin-bottom:15px;">
@@ -8,7 +9,9 @@ selected
     {% if include.selected == tab.name  %}
       <img src="/ToutEnAlgo/assets/images/workshop/workshop-icons-{{ tab.slug }}-on.png" style="width:150px;height:150px;" >
     {% else %}
-      <img src="/ToutEnAlgo/assets/images/workshop/workshop-icons-{{ tab.slug }}-off.png" style="width:150px;height:150px;" >
+      <a href="/ToutEnAlgo/workshop/{{ workshop | slugify }}/{{tab.slug}}">
+        <img src="/ToutEnAlgo/assets/images/workshop/workshop-icons-{{ tab.slug }}-off.png" style="width:150px;height:150px;" >
+      </a>
     {% endif %}
 
   {% endfor %}

@@ -15,11 +15,28 @@ assetsFolder: /ToutEnAlgo/assets/images/workshop
   </div>
 
 
+  <hr>
   <div class="entry">
     <p>
       <br>
-      <a class="previous" href="/ToutEnAlgo/workshop">&laquo; Retour aux ateliers</a>
+      <a class="previous" href="/ToutEnAlgo/workshop">&#9668; Retour aux ateliers</a>
     </p>
   </div>
+
+  <div class="tags-expo-section" style="clear: both;">
+    <p>
+      <h4>
+        D'autres articles sur le même sujet
+      </h4>
+      <ul class="tags-expo-posts">
+        {% for post in site.tags.Mindstorms %}
+          {% if post.url %}
+              <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </p>
+  </div>
+
 
 </article>
