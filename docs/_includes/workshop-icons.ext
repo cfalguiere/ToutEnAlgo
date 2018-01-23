@@ -5,13 +5,12 @@ selected
 
   <div class="entry" style="margin-top:15px;">
   {% for tab in site.data.workshoptabs %}
-    {% if include.selected == "tab.name"  %}
-      {{ assign active = "on" }}
+    {% if include.selected == tab.name  %}
+      <img src="/ToutEnAlgo/assets/images/workshop/workshop-icons-{{ tab.slug }}-on.png" style="width:150px;height:150px;" >
     {% else %}
-      {{ assign active = "off" }}
+      <img src="/ToutEnAlgo/assets/images/workshop/workshop-icons-{{ tab.slug }}-off.png" style="width:150px;height:150px;" >
     {% endif %}
 
-    <img src="/ToutEnAlgo/assets/images/workshop/workshop-icons-{{ tab.slug }}-{{active}}.png" style="width:150px;height:150px;" >
   {% endfor %}
   </div>
 
