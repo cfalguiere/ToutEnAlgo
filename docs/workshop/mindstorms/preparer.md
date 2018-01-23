@@ -3,13 +3,14 @@ layout: workshop
 title: Atelier Mindstorms
 date: '2017-12-27 09:30:00 CET'
 category: Mindstorms
-tags: ['Mindstorms', 'Atelier']
+tags: ['Mindstorms', 'Atelier', "Organiser"]
 published: true
 assetsFolder: /ToutEnAlgo/assets/workshop/mindstorms
 ---
 
 {% include workshop-icons.ext selected="organiser" workshop="Mindstorms"%}
 
+---
 
 ### Comment préparer un atelier ?
 

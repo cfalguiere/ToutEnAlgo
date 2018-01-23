@@ -1,11 +1,15 @@
 - name: decouvrir
   slug: decouvrir
+  url: index
 
 - name: apprendre
   slug: apprendre
+  url: apprendre
 
 - name: organiser
   slug: preparer
+  url: preparer
 
 - name: fichetech
   slug: fichetech
+  url: fichetech
