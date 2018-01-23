@@ -30,7 +30,7 @@ assetsFolder: /ToutEnAlgo/assets/images/workshop
       </h4>
       <ul class="tags-expo-posts">
         {% for tag in site.tags %}
-          {% if tag == page.Category %}
+          {% if tag == page.category %}
             {% for item in tag[1] %}
               {% if item.url %}
                   <li><a href="{{ item.url }}">{{ item.title }}</a></li>
