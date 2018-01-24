@@ -33,7 +33,7 @@ assetsFolder: /ToutEnAlgo/assets/images/workshop
           {% if tag[0] == page.category %}
             {% for item in tag[1] %}
               {% if item.url %}
-                  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                  <li><a href="/ToutEnAlgo{{ item.url }}">{{ item.title }}</a></li>
               {% endif %}
             {% endfor %}
           {% endif %}
