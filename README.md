@@ -4,6 +4,4 @@ Ce projet regroupe des ressources pour l'animation d'ateliers pour enfants ou pe
 
 Il contient à ce jour surtout des ressources sur les ateliers Mindstorms.
 
-Vous êtes sur le repository Github du site.
-
 [Aller sur le site](https://cfalguiere.github.io/ToutEnAlgo/)
