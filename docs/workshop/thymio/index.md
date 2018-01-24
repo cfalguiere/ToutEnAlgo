@@ -60,29 +60,6 @@ En utilisant le logiciel Aseba, il est possible d'écrire des programmes.
 
 C'est un moyen amusant est d'apprendre progressivement les bases de la programmation et de la robotique au travers deds exemples.
 
----
-
-### Comment préparer un atelier ?
-
-Le site de Thymio [Thymio®](https://www.thymio.org/home-fr:home) est assez bien documenté et présente des exemples d'ateliers.
-
-Ces robots sont destinés à des enfants jeunes. Il faut prévoir des activités de 30 minutes environ et chenger d'activité si besoin.
-
-Les questions pratiques
-- un mentor par groupe de 4, plus si vous pouvez au début quand les enfants ne maîtrisent pas encore. Il n'est pas nécessaire d'avoir une connaissance approfondie de la programmation ou de la robotique. Il faut connaître un peu le produit et avoir des idées d'animation
-- un Thymio, un ordinateur par groupe si on veut programmer, des rallonges
-- un espace assez grand avec une table par groupe et beaucoup d'espace au sol dans la salle ou proche pour les déplacements des robots
-- n'oubliez pas les questions d'assurance propres à tous les ateliers en dehors du contexte scolaire
-- il faut recharger les robots avant les ateliers. Le cable usb est fourni dans le pack.
-
----
-
-### Démarrer l'atelier de programmation
-
-Pour débuter avec le robot vous pouvez commencer par la description des modes et des ateliers sur chacun des modes
-
-- [Les modes préprogrammés](https://www.thymio.org/fr:thymiostarting)
-
 
 Pour la programmation, il faut installer le [logiciel Aseba](https://www.thymio.org/fr:start). Il est gratuit.
 

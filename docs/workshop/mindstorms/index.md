@@ -56,7 +56,3 @@ Il est aussi possible de programmer en C, Python, Java et l'intégrer avec d'aut
 
 ---
 
-### Démarrer l'atelier
-
-Pour la programmation par blocs, il faut installer le [logiciel Mindstorms](https://www.lego.com/fr-fr/mindstorms/downloads/download-software). Il est gratuit.
-
