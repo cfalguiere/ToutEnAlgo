@@ -2,6 +2,10 @@
   slug: decouvrir
   url: index
 
+- name: demarrer
+  slug: demarrer
+  url: demarrer
+
 - name: apprendre
   slug: apprendre
   url: apprendre
@@ -10,6 +14,3 @@
   slug: preparer
   url: preparer
 
-- name: fichetech
-  slug: fichetech
-  url: fichetech
