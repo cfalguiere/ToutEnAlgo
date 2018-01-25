@@ -4,7 +4,7 @@ selected
 workshop
 -->
 
-  <div class="entry" style="margin-top:10px;margin-bottom:15px;">
+  <div class="entry" style="margin-bottom:15px;">
   {% for tab in site.data.workshoptabs %}
     {% if include.selected == tab.name  %}
       <img src="/ToutEnAlgo/assets/images/workshop/workshop-icons-{{ tab.slug }}-on.png" style="width:150px;height:150px;" >
