@@ -3,7 +3,7 @@ layout: post
 title: Le robot qui dessine V2 - 5
 date: '2017-12-29 22:30:00 CET'
 category: Blog
-tags: ['Mindstorms', 'Demo']
+tags: ['Mindstorms', 'Plan de Montage']
 published: true
 assetsFolder: /ToutEnAlgo/assets/le-robot-qui-dessine-v2/3-brique
 thumbnail: /ToutEnAlgo/assets/le-robot-qui-dessine-v2/thumbmail-dessinatorv2-150x150.png
