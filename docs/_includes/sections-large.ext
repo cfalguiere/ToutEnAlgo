@@ -15,7 +15,7 @@
 
   <div style="margin-left:5px;float:left;">
     <svg height="150" width="150">
-      <polygon points="0,0 0,150 150,150 150,50 100,0" style="fill:#d22501" />
+      <polygon points="0,0 0,150 150,150 150,50 100,0" style="fill:#ff5252" />
       <a xlink:href="{{ site.url }}/ToutEnAlgo/workshop" target="_blank">
         <text fill="black" font-family="Verdana" font-size="28">
             <tspan x="20" y="65">Les</tspan>
